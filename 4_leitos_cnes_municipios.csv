@@ -1,0 +1,596 @@
+﻿Leito;Setores;Classificação;SP_GESTOR;Nome_Municipio;C_Leito
+L-001;Centro Obstétrico/Maternidade;Amarelo;350000;Gestão Estadual (SP);2
+L-002;Centro Obstétrico/Maternidade;Vermelho;350000;Gestão Estadual (SP);3
+L-003;UTI Pediátrica;Amarelo;350000;Gestão Estadual (SP);2
+L-004;Enfermaria;Vermelho;350000;Gestão Estadual (SP);3
+L-005;Centro Obstétrico/Maternidade;Amarelo;350000;Gestão Estadual (SP);2
+L-006;Enfermaria;Verde;350000;Gestão Estadual (SP);1
+L-007;UTI Pediátrica;Vermelho;350000;Gestão Estadual (SP);3
+L-008;UTI Pediátrica;Verde;350000;Gestão Estadual (SP);1
+L-009;Centro Obstétrico/Maternidade;Vermelho;350000;Gestão Estadual (SP);3
+L-010;UTI Pediátrica;Verde;350000;Gestão Estadual (SP);1
+L-011;Pronto Socorro;Amarelo;350000;Gestão Estadual (SP);2
+L-012;Enfermaria;Vermelho;350000;Gestão Estadual (SP);3
+L-013;UTI Pediátrica;Verde;350000;Gestão Estadual (SP);1
+L-014;Pronto Socorro;Vermelho;350000;Gestão Estadual (SP);3
+L-015;Enfermaria;Amarelo;350000;Gestão Estadual (SP);2
+L-016;Pronto Socorro;Amarelo;355030;São Paulo;2
+L-017;Enfermaria;Amarelo;355030;São Paulo;2
+L-018;Centro Obstétrico/Maternidade;Verde;355030;São Paulo;1
+L-019;UTI Pediátrica;Amarelo;355030;São Paulo;2
+L-020;Pronto Socorro;Verde;355030;São Paulo;1
+L-021;UTI Pediátrica;Amarelo;355030;São Paulo;2
+L-022;Centro Obstétrico/Maternidade;Amarelo;355030;São Paulo;2
+L-023;Pronto Socorro;Amarelo;355030;São Paulo;2
+L-024;Pronto Socorro;Amarelo;355030;São Paulo;2
+L-025;Enfermaria;Amarelo;355030;São Paulo;2
+L-026;Pronto Socorro;Verde;354990;São José dos Campos;1
+L-027;Pronto Socorro;Vermelho;354990;São José dos Campos;3
+L-028;UTI Pediátrica;Amarelo;354870;São Bernardo do Campo;2
+L-029;Centro Obstétrico/Maternidade;Amarelo;354870;São Bernardo do Campo;2
+L-030;UTI Pediátrica;Verde;350950;Campinas;1
+L-031;UTI Pediátrica;Amarelo;350950;Campinas;2
+L-032;Pronto Socorro;Verde;354780;Santo André;1
+L-033;Centro Obstétrico/Maternidade;Vermelho;354780;Santo André;3
+L-034;UTI Pediátrica;Amarelo;351880;Guarulhos;2
+L-035;UTI Pediátrica;Amarelo;351880;Guarulhos;2
+L-036;Pronto Socorro;Verde;354850;Santos;1
+L-037;UTI Adulto;Amarelo;354850;Santos;2
+L-038;Centro Obstétrico/Maternidade;Amarelo;354340;Ribeirão Preto;2
+L-039;UTI Adulto;Vermelho;354340;Ribeirão Preto;3
+L-040;Pronto Socorro;Verde;352590;Jundiaí;1
+L-041;Enfermaria;Amarelo;352590;Jundiaí;2
+L-042;Enfermaria;Vermelho;350570;Barueri;3
+L-043;Enfermaria;Verde;350570;Barueri;1
+L-044;UTI Pediátrica;Vermelho;355220;Sorocaba;3
+L-045;UTI Adulto;Vermelho;355220;Sorocaba;3
+L-046;UTI Pediátrica;Verde;353440;Osasco;1
+L-047;Centro Obstétrico/Maternidade;Vermelho;353440;Osasco;3
+L-048;Enfermaria;Verde;353870;Piracicaba;1
+L-049;Enfermaria;Amarelo;353870;Piracicaba;2
+L-050;Enfermaria;Vermelho;354880;São Caetano do Sul;3
+L-051;UTI Pediátrica;Verde;354880;São Caetano do Sul;1
+L-052;Enfermaria;Amarelo;352690;Limeira;2
+L-053;UTI Pediátrica;Amarelo;352690;Limeira;2
+L-054;Centro Obstétrico/Maternidade;Vermelho;350320;Araraquara;3
+L-055;UTI Adulto;Amarelo;350320;Araraquara;2
+L-056;Pronto Socorro;Amarelo;353470;Ourinhos;2
+L-057;Centro Obstétrico/Maternidade;Verde;353470;Ourinhos;1
+L-058;Centro Obstétrico/Maternidade;Amarelo;354890;São Carlos;2
+L-059;Enfermaria;Amarelo;354890;São Carlos;2
+L-060;Pronto Socorro;Verde;352940;Mauá;1
+L-061;Centro Obstétrico/Maternidade;Verde;352940;Mauá;1
+L-062;Centro Obstétrico/Maternidade;Amarelo;354980;São José do Rio Preto;2
+L-063;Pronto Socorro;Verde;354980;São José do Rio Preto;1
+L-064;Pronto Socorro;Amarelo;351870;Guarujá;2
+L-065;Enfermaria;Verde;351870;Guarujá;1
+L-066;Pronto Socorro;Amarelo;352050;Indaiatuba;2
+L-067;UTI Adulto;Amarelo;352050;Indaiatuba;2
+L-068;Enfermaria;Amarelo;353060;Mogi das Cruzes;2
+L-069;Pronto Socorro;Amarelo;353060;Mogi das Cruzes;2
+L-070;Enfermaria;Amarelo;352440;Jacareí;2
+L-071;Enfermaria;Vermelho;352440;Jacareí;3
+L-072;Centro Obstétrico/Maternidade;Amarelo;352530;Jaú;2
+L-073;UTI Pediátrica;Verde;352530;Jaú;1
+L-074;Enfermaria;Amarelo;351380;Diadema;2
+L-075;UTI Adulto;Amarelo;351380;Diadema;2
+L-076;UTI Adulto;Amarelo;352900;Marília;2
+L-077;Pronto Socorro;Amarelo;352900;Marília;2
+L-078;UTI Pediátrica;Amarelo;350550;Barretos;2
+L-079;Centro Obstétrico/Maternidade;Verde;350550;Barretos;1
+L-080;UTI Adulto;Amarelo;351350;Cubatão;2
+L-081;UTI Pediátrica;Amarelo;351350;Cubatão;2
+L-082;Centro Obstétrico/Maternidade;Amarelo;355100;São Vicente;2
+L-083;UTI Adulto;Amarelo;355100;São Vicente;2
+L-084;UTI Pediátrica;Amarelo;353650;Paulínia;2
+L-085;UTI Pediátrica;Amarelo;353650;Paulínia;2
+L-086;Pronto Socorro;Verde;350450;Avaré;1
+L-087;Enfermaria;Vermelho;350450;Avaré;3
+L-088;Centro Obstétrico/Maternidade;Amarelo;352230;Itapetininga;2
+L-089;Enfermaria;Verde;352230;Itapetininga;1
+L-090;UTI Adulto;Verde;354390;Rio Claro;1
+L-091;Enfermaria;Vermelho;354390;Rio Claro;3
+L-092;Centro Obstétrico/Maternidade;Vermelho;352240;Itapeva;3
+L-093;Pronto Socorro;Verde;352240;Itapeva;1
+L-094;Enfermaria;Verde;353070;Mogi Guaçu;1
+L-095;Enfermaria;Verde;353070;Mogi Guaçu;1
+L-096;Pronto Socorro;Amarelo;355410;Taubaté;2
+L-097;UTI Pediátrica;Verde;355410;Taubaté;1
+L-098;Enfermaria;Verde;351050;Caraguatatuba;1
+L-099;UTI Adulto;Amarelo;351050;Caraguatatuba;2
+L-100;UTI Pediátrica;Amarelo;350160;Americana;2
+L-101;Pronto Socorro;Amarelo;350160;Americana;2
+L-102;UTI Adulto;Vermelho;352390;Itu;3
+L-103;UTI Adulto;Amarelo;352390;Itu;2
+L-104;Pronto Socorro;Amarelo;354910;São João da Boa Vista;2
+L-105;Enfermaria;Amarelo;354910;São João da Boa Vista;2
+L-106;UTI Adulto;Vermelho;352720;Lorena;3
+L-107;Enfermaria;Amarelo;352720;Lorena;2
+L-108;UTI Adulto;Verde;351630;Francisco Morato;1
+L-109;Enfermaria;Verde;351630;Francisco Morato;1
+L-110;Pronto Socorro;Verde;353800;Pindamonhangaba;1
+L-111;Pronto Socorro;Verde;353800;Pindamonhangaba;1
+L-112;UTI Adulto;Amarelo;354100;Praia Grande;2
+L-113;Centro Obstétrico/Maternidade;Verde;354100;Praia Grande;1
+L-114;UTI Pediátrica;Amarelo;355250;Suzano;2
+L-115;Enfermaria;Amarelo;355250;Suzano;2
+L-116;UTI Adulto;Verde;350330;Araras;1
+L-117;Pronto Socorro;Vermelho;350330;Araras;3
+L-118;Centro Obstétrico/Maternidade;Amarelo;350760;Bragança Paulista;2
+L-119;Enfermaria;Vermelho;350760;Bragança Paulista;3
+L-120;UTI Adulto;Verde;354580;Santa Bárbara d'Oeste;1
+L-121;Enfermaria;Amarelo;354580;Santa Bárbara d'Oeste;2
+L-122;Centro Obstétrico/Maternidade;Amarelo;351340;Cruzeiro;2
+L-123;Enfermaria;Amarelo;351340;Cruzeiro;2
+L-124;Centro Obstétrico/Maternidade;Amarelo;351907;Hortolândia;2
+L-125;Pronto Socorro;Amarelo;351907;Hortolândia;2
+L-126;UTI Adulto;Verde;350960;Campo Limpo Paulista;1
+L-127;Centro Obstétrico/Maternidade;Vermelho;350960;Campo Limpo Paulista;3
+L-128;Pronto Socorro;Amarelo;351840;Guaratinguetá;2
+L-129;UTI Adulto;Vermelho;351840;Guaratinguetá;3
+L-130;Pronto Socorro;Vermelho;352340;Itatiba;3
+L-131;Centro Obstétrico/Maternidade;Verde;352340;Itatiba;1
+L-132;Enfermaria;Amarelo;350400;Assis;2
+L-133;Centro Obstétrico/Maternidade;Verde;350400;Assis;1
+L-134;UTI Adulto;Verde;355170;Sertãozinho;1
+L-135;Enfermaria;Amarelo;355170;Sertãozinho;2
+L-136;Pronto Socorro;Verde;355060;São Roque;1
+L-137;Centro Obstétrico/Maternidade;Amarelo;355060;São Roque;2
+L-138;UTI Adulto;Vermelho;352670;Leme;3
+L-139;UTI Pediátrica;Amarelo;352670;Leme;2
+L-140;UTI Pediátrica;Amarelo;352260;Itapira;2
+L-141;UTI Pediátrica;Verde;352260;Itapira;1
+L-142;UTI Pediátrica;Verde;352470;Jaguariúna;1
+L-143;UTI Pediátrica;Amarelo;352470;Jaguariúna;2
+L-144;UTI Adulto;Verde;350410;Atibaia;1
+L-145;UTI Adulto;Verde;350410;Atibaia;1
+L-146;Centro Obstétrico/Maternidade;Verde;355540;Ubatuba;1
+L-147;UTI Pediátrica;Amarelo;355540;Ubatuba;2
+L-148;UTI Adulto;Verde;350010;Adamantina;1
+L-149;Pronto Socorro;Verde;350010;Adamantina;1
+L-150;UTI Adulto;Amarelo;355670;Vinhedo;2
+L-151;Pronto Socorro;Verde;355670;Vinhedo;1
+L-152;Pronto Socorro;Verde;355400;Tatuí;1
+L-153;Pronto Socorro;Verde;355400;Tatuí;1
+L-154;Enfermaria;Amarelo;352710;Lins;2
+L-155;Centro Obstétrico/Maternidade;Amarelo;352710;Lins;2
+L-156;UTI Pediátrica;Verde;355620;Valinhos;1
+L-157;Pronto Socorro;Vermelho;355620;Valinhos;3
+L-158;Enfermaria;Vermelho;350920;Cajamar;3
+L-159;UTI Adulto;Vermelho;350920;Cajamar;3
+L-160;Pronto Socorro;Verde;355070;São Sebastião;1
+L-161;Centro Obstétrico/Maternidade;Amarelo;355070;São Sebastião;2
+L-162;Centro Obstétrico/Maternidade;Amarelo;351440;Dracena;2
+L-163;Enfermaria;Vermelho;351440;Dracena;3
+L-164;Pronto Socorro;Verde;352850;Mairiporã;1
+L-165;UTI Pediátrica;Vermelho;352850;Mairiporã;3
+L-166;Enfermaria;Amarelo;354970;São José do Rio Pardo;2
+L-167;Enfermaria;Verde;354970;São José do Rio Pardo;1
+L-168;UTI Pediátrica;Amarelo;350590;Batatais;2
+L-169;Centro Obstétrico/Maternidade;Vermelho;350590;Batatais;3
+L-170;UTI Adulto;Vermelho;354730;Santana de Parnaíba;3
+L-171;UTI Adulto;Verde;354730;Santana de Parnaíba;1
+L-172;UTI Adulto;Vermelho;353050;Mococa;3
+L-173;UTI Adulto;Amarelo;353050;Mococa;2
+L-174;Centro Obstétrico/Maternidade;Verde;351960;Ibitinga;1
+L-175;Centro Obstétrico/Maternidade;Verde;351960;Ibitinga;1
+L-176;Centro Obstétrico/Maternidade;Verde;350190;Amparo;1
+L-177;Enfermaria;Verde;350190;Amparo;1
+L-178;Enfermaria;Amarelo;353080;Mogi Mirim;2
+L-179;UTI Adulto;Verde;353080;Mogi Mirim;1
+L-180;Pronto Socorro;Amarelo;354640;Santa Cruz do Rio Pardo;2
+L-181;UTI Adulto;Vermelho;354640;Santa Cruz do Rio Pardo;3
+L-182;Pronto Socorro;Amarelo;354520;Salto;2
+L-183;UTI Pediátrica;Vermelho;354520;Salto;3
+L-184;Centro Obstétrico/Maternidade;Verde;353550;Paraguaçu Paulista;1
+L-185;UTI Adulto;Amarelo;353550;Paraguaçu Paulista;2
+L-186;Centro Obstétrico/Maternidade;Amarelo;350650;Birigui;2
+L-187;UTI Pediátrica;Amarelo;350650;Birigui;2
+L-188;Pronto Socorro;Verde;352320;Itararé;1
+L-189;UTI Pediátrica;Vermelho;352320;Itararé;3
+L-190;UTI Pediátrica;Verde;350210;Andradina;1
+L-191;Centro Obstétrico/Maternidade;Amarelo;350210;Andradina;2
+L-192;UTI Pediátrica;Verde;350850;Caçapava;1
+L-193;Enfermaria;Vermelho;350850;Caçapava;3
+L-194;Pronto Socorro;Verde;353730;Penápolis;1
+L-195;Pronto Socorro;Amarelo;353730;Penápolis;2
+L-196;Centro Obstétrico/Maternidade;Vermelho;353390;Olímpia;3
+L-197;Centro Obstétrico/Maternidade;Amarelo;353390;Olímpia;2
+L-198;UTI Adulto;Verde;355700;Votorantim;1
+L-199;UTI Pediátrica;Verde;355700;Votorantim;1
+L-200;Centro Obstétrico/Maternidade;Amarelo;352410;Ituverava;2
+L-201;UTI Pediátrica;Vermelho;352410;Ituverava;3
+L-202;UTI Pediátrica;Vermelho;352680;Lençóis Paulista;3
+L-203;UTI Adulto;Verde;352680;Lençóis Paulista;1
+L-204;Centro Obstétrico/Maternidade;Verde;354060;Porto Feliz;1
+L-205;UTI Pediátrica;Verde;354060;Porto Feliz;1
+L-206;Enfermaria;Amarelo;355370;Taquaritinga;2
+L-207;Pronto Socorro;Amarelo;355370;Taquaritinga;2
+L-208;UTI Pediátrica;Verde;352270;Itápolis;1
+L-209;Centro Obstétrico/Maternidade;Verde;352270;Itápolis;1
+L-210;UTI Adulto;Vermelho;353350;Novo Horizonte;3
+L-211;UTI Adulto;Verde;353350;Novo Horizonte;1
+L-212;Centro Obstétrico/Maternidade;Amarelo;350390;Arujá;2
+L-213;Enfermaria;Verde;350390;Arujá;1
+L-214;Pronto Socorro;Verde;353190;Morro Agudo;1
+L-215;Centro Obstétrico/Maternidade;Amarelo;353190;Morro Agudo;2
+L-216;Centro Obstétrico/Maternidade;Amarelo;352730;Louveira;2
+L-217;Enfermaria;Verde;352730;Louveira;1
+L-218;UTI Adulto;Vermelho;355040;São Pedro;3
+L-219;Pronto Socorro;Amarelo;355040;São Pedro;2
+L-220;Centro Obstétrico/Maternidade;Verde;352430;Jaboticabal;1
+L-221;UTI Adulto;Verde;352430;Jaboticabal;1
+L-222;Centro Obstétrico/Maternidade;Vermelho;355280;Taboão da Serra;3
+L-223;Pronto Socorro;Verde;355280;Taboão da Serra;1
+L-224;Pronto Socorro;Amarelo;351040;Capivari;2
+L-225;Pronto Socorro;Verde;351040;Capivari;1
+L-226;Centro Obstétrico/Maternidade;Amarelo;350940;Cajuru;2
+L-227;Pronto Socorro;Vermelho;350940;Cajuru;3
+L-228;Enfermaria;Amarelo;353780;Piedade;2
+L-229;Centro Obstétrico/Maternidade;Amarelo;353780;Piedade;2
+L-230;UTI Adulto;Verde;351518;Espírito Santo do Pinhal;1
+L-231;Centro Obstétrico/Maternidade;Vermelho;351518;Espírito Santo do Pinhal;3
+L-232;UTI Pediátrica;Amarelo;354130;Presidente Epitácio;2
+L-233;Centro Obstétrico/Maternidade;Amarelo;354130;Presidente Epitácio;2
+L-234;UTI Pediátrica;Amarelo;353930;Pirassununga;2
+L-235;UTI Adulto;Verde;353930;Pirassununga;1
+L-236;Pronto Socorro;Verde;350700;Boituva;1
+L-237;Centro Obstétrico/Maternidade;Verde;350700;Boituva;1
+L-238;UTI Adulto;Amarelo;352400;Itupeva;2
+L-239;UTI Pediátrica;Verde;352400;Itupeva;1
+L-240;Centro Obstétrico/Maternidade;Vermelho;353130;Monte Alto;3
+L-241;Enfermaria;Vermelho;353130;Monte Alto;3
+L-242;Centro Obstétrico/Maternidade;Amarelo;351020;Capão Bonito;2
+L-243;Pronto Socorro;Amarelo;351020;Capão Bonito;2
+L-244;UTI Adulto;Amarelo;354680;Santa Isabel;2
+L-245;Pronto Socorro;Amarelo;354680;Santa Isabel;2
+L-246;Enfermaria;Amarelo;354660;Santa Fé do Sul;2
+L-247;Enfermaria;Verde;354660;Santa Fé do Sul;1
+L-248;Enfermaria;Amarelo;354150;Presidente Venceslau;2
+L-249;Enfermaria;Vermelho;354150;Presidente Venceslau;3
+L-250;UTI Pediátrica;Amarelo;351280;Cosmópolis;2
+L-251;UTI Pediátrica;Amarelo;351280;Cosmópolis;2
+L-252;Centro Obstétrico/Maternidade;Verde;351740;Guaíra;1
+L-253;UTI Adulto;Verde;351740;Guaíra;1
+L-254;Pronto Socorro;Verde;354070;Porto Ferreira;1
+L-255;Pronto Socorro;Verde;354070;Porto Ferreira;1
+L-256;UTI Adulto;Amarelo;353670;Pederneiras;2
+L-257;UTI Pediátrica;Amarelo;353670;Pederneiras;2
+L-258;Centro Obstétrico/Maternidade;Vermelho;353460;Osvaldo Cruz;3
+L-259;Centro Obstétrico/Maternidade;Vermelho;353460;Osvaldo Cruz;3
+L-260;Centro Obstétrico/Maternidade;Vermelho;351670;Garça;3
+L-261;Centro Obstétrico/Maternidade;Verde;351670;Garça;1
+L-262;Enfermaria;Amarelo;350970;Campos do Jordão;2
+L-263;UTI Pediátrica;Verde;350970;Campos do Jordão;1
+L-264;UTI Adulto;Vermelho;354330;Ribeirão Pires;3
+L-265;UTI Adulto;Verde;354330;Ribeirão Pires;1
+L-266;Enfermaria;Verde;350270;Apiaí;1
+L-267;UTI Adulto;Verde;350270;Apiaí;1
+L-268;UTI Pediátrica;Verde;351370;Descalvado;1
+L-269;Pronto Socorro;Verde;351370;Descalvado;1
+L-270;Centro Obstétrico/Maternidade;Vermelho;355210;Socorro;3
+L-271;Pronto Socorro;Amarelo;355210;Socorro;2
+L-272;UTI Pediátrica;Verde;351500;Embu das Artes;1
+L-273;Pronto Socorro;Amarelo;351500;Embu das Artes;2
+L-274;UTI Adulto;Vermelho;352040;Ilhabela;3
+L-275;Enfermaria;Amarelo;352040;Ilhabela;2
+L-276;UTI Adulto;Verde;350530;Barra Bonita;1
+L-277;Centro Obstétrico/Maternidade;Amarelo;350530;Barra Bonita;2
+L-278;Pronto Socorro;Verde;355640;Vargem Grande do Sul;1
+L-279;Centro Obstétrico/Maternidade;Amarelo;355640;Vargem Grande do Sul;2
+L-280;Centro Obstétrico/Maternidade;Verde;350610;Bebedouro;1
+L-281;Enfermaria;Verde;350610;Bebedouro;1
+L-282;UTI Adulto;Verde;355380;Taquarituba;1
+L-283;UTI Pediátrica;Amarelo;355380;Taquarituba;2
+L-284;Centro Obstétrico/Maternidade;Amarelo;353430;Orlândia;2
+L-285;UTI Adulto;Vermelho;353430;Orlândia;3
+L-286;UTI Pediátrica;Verde;355020;São Miguel Arcanjo;1
+L-287;UTI Adulto;Verde;355020;São Miguel Arcanjo;1
+L-288;UTI Pediátrica;Amarelo;351830;Guararema;2
+L-289;Enfermaria;Amarelo;351830;Guararema;2
+L-290;Centro Obstétrico/Maternidade;Verde;351060;Carapicuíba;1
+L-291;UTI Adulto;Vermelho;351060;Carapicuíba;3
+L-292;UTI Adulto;Amarelo;352920;Martinópolis;2
+L-293;Pronto Socorro;Vermelho;352920;Martinópolis;3
+L-294;Centro Obstétrico/Maternidade;Verde;353530;Palmital;1
+L-295;Centro Obstétrico/Maternidade;Verde;353530;Palmital;1
+L-296;Centro Obstétrico/Maternidade;Amarelo;350420;Auriflama;2
+L-297;UTI Pediátrica;Verde;350420;Auriflama;1
+L-298;Centro Obstétrico/Maternidade;Amarelo;350100;Altinópolis;2
+L-299;UTI Adulto;Amarelo;350100;Altinópolis;2
+L-300;Centro Obstétrico/Maternidade;Verde;350635;Bertioga;1
+L-301;UTI Adulto;Amarelo;350635;Bertioga;2
+L-302;UTI Pediátrica;Verde;351000;Cândido Mota;1
+L-303;UTI Pediátrica;Amarelo;351000;Cândido Mota;2
+L-304;Enfermaria;Amarelo;353880;Piraju;2
+L-305;Pronto Socorro;Amarelo;353880;Piraju;2
+L-306;Pronto Socorro;Verde;352010;Igarapava;1
+L-307;Enfermaria;Amarelo;352010;Igarapava;2
+L-308;Centro Obstétrico/Maternidade;Amarelo;353340;Nova Odessa;2
+L-309;UTI Pediátrica;Verde;353340;Nova Odessa;1
+L-310;Pronto Socorro;Verde;354530;Salto de Pirapora;1
+L-311;UTI Pediátrica;Verde;354530;Salto de Pirapora;1
+L-312;Enfermaria;Amarelo;352640;Laranjal Paulista;2
+L-313;UTI Pediátrica;Vermelho;352640;Laranjal Paulista;3
+L-314;UTI Adulto;Amarelo;350220;Angatuba;2
+L-315;Pronto Socorro;Verde;350220;Angatuba;1
+L-316;UTI Pediátrica;Amarelo;351360;Cunha;2
+L-317;Centro Obstétrico/Maternidade;Verde;351360;Cunha;1
+L-318;UTI Pediátrica;Verde;354770;Santo Anastácio;1
+L-319;UTI Pediátrica;Verde;354770;Santo Anastácio;1
+L-320;Pronto Socorro;Verde;353030;Mirassol;1
+L-321;UTI Pediátrica;Amarelo;353030;Mirassol;2
+L-322;UTI Pediátrica;Verde;351820;Guararapes;1
+L-323;Enfermaria;Amarelo;351820;Guararapes;2
+L-324;Enfermaria;Amarelo;354020;Pontal;2
+L-325;UTI Adulto;Vermelho;354020;Pontal;3
+L-326;Enfermaria;Amarelo;352600;Junqueirópolis;2
+L-327;Pronto Socorro;Vermelho;352600;Junqueirópolis;3
+L-328;UTI Adulto;Vermelho;353950;Pitangueiras;3
+L-329;Enfermaria;Verde;353950;Pitangueiras;1
+L-330;UTI Pediátrica;Amarelo;352970;Miguelópolis;2
+L-331;Enfermaria;Verde;352970;Miguelópolis;1
+L-332;Centro Obstétrico/Maternidade;Vermelho;350520;Bariri;3
+L-333;UTI Pediátrica;Amarelo;350520;Bariri;2
+L-334;Centro Obstétrico/Maternidade;Vermelho;351220;Conchal;3
+L-335;Centro Obstétrico/Maternidade;Amarelo;351220;Conchal;2
+L-336;UTI Pediátrica;Amarelo;351770;Guará;2
+L-337;UTI Adulto;Verde;351770;Guará;1
+L-338;Centro Obstétrico/Maternidade;Amarelo;351080;Casa Branca;2
+L-339;UTI Pediátrica;Amarelo;351080;Casa Branca;2
+L-340;UTI Adulto;Verde;353180;Monte Mor;1
+L-341;Enfermaria;Verde;353180;Monte Mor;1
+L-342;Centro Obstétrico/Maternidade;Verde;351410;Dois Córregos;1
+L-343;Pronto Socorro;Vermelho;351410;Dois Córregos;3
+L-344;UTI Adulto;Verde;351860;Guariba;1
+L-345;Pronto Socorro;Amarelo;351860;Guariba;2
+L-346;UTI Pediátrica;Amarelo;355510;Tupi Paulista;2
+L-347;UTI Pediátrica;Verde;355510;Tupi Paulista;1
+L-348;Enfermaria;Verde;355160;Serra Negra;1
+L-349;Enfermaria;Amarelo;355160;Serra Negra;2
+L-350;Enfermaria;Verde;353890;Pirajuí;1
+L-351;Centro Obstétrico/Maternidade;Amarelo;353890;Pirajuí;2
+L-352;Enfermaria;Verde;354630;Santa Cruz das Palmeiras;1
+L-353;UTI Adulto;Amarelo;354630;Santa Cruz das Palmeiras;2
+L-354;Pronto Socorro;Verde;355270;Tabatinga;1
+L-355;UTI Adulto;Vermelho;355270;Tabatinga;3
+L-356;UTI Pediátrica;Verde;351450;Duartina;1
+L-357;UTI Adulto;Amarelo;351450;Duartina;2
+L-358;Pronto Socorro;Verde;351140;Cerqueira César;1
+L-359;UTI Pediátrica;Amarelo;351140;Cerqueira César;2
+L-360;Centro Obstétrico/Maternidade;Verde;352220;Itapecerica da Serra;1
+L-361;Pronto Socorro;Amarelo;352220;Itapecerica da Serra;2
+L-362;UTI Pediátrica;Amarelo;353150;Monte Azul Paulista;2
+L-363;UTI Adulto;Amarelo;353150;Monte Azul Paulista;2
+L-364;UTI Pediátrica;Amarelo;354750;Santa Rita do Passa Quatro;2
+L-365;Pronto Socorro;Amarelo;354750;Santa Rita do Passa Quatro;2
+L-366;UTI Pediátrica;Verde;355430;Teodoro Sampaio;1
+L-367;Enfermaria;Amarelo;355430;Teodoro Sampaio;2
+L-368;Centro Obstétrico/Maternidade;Verde;350580;Bastos;1
+L-369;Centro Obstétrico/Maternidade;Verde;350580;Bastos;1
+L-370;Pronto Socorro;Vermelho;352280;Itaporanga;3
+L-371;UTI Adulto;Verde;352280;Itaporanga;1
+L-372;Enfermaria;Vermelho;352170;Itaberá;3
+L-373;Centro Obstétrico/Maternidade;Vermelho;352170;Itaberá;3
+L-374;UTI Pediátrica;Verde;353790;Pilar do Sul;1
+L-375;Enfermaria;Amarelo;353790;Pilar do Sul;2
+L-376;UTI Adulto;Verde;350790;Brotas;1
+L-377;Enfermaria;Amarelo;350790;Brotas;2
+L-378;UTI Pediátrica;Verde;355450;Tietê;1
+L-379;UTI Pediátrica;Amarelo;355450;Tietê;2
+L-380;Pronto Socorro;Amarelo;351540;Fartura;2
+L-381;UTI Pediátrica;Amarelo;351540;Fartura;2
+L-382;Enfermaria;Amarelo;355650;Várzea Paulista;2
+L-383;Pronto Socorro;Vermelho;355650;Várzea Paulista;3
+L-384;UTI Adulto;Amarelo;351970;Ibiúna;2
+L-385;Centro Obstétrico/Maternidade;Verde;351970;Ibiúna;1
+L-386;Pronto Socorro;Amarelo;355330;Tambaú;2
+L-387;Enfermaria;Amarelo;355330;Tambaú;2
+L-388;UTI Pediátrica;Vermelho;354760;Santa Rosa de Viterbo;3
+L-389;Centro Obstétrico/Maternidade;Amarelo;354760;Santa Rosa de Viterbo;2
+L-390;Pronto Socorro;Vermelho;355010;São Manuel;3
+L-391;UTI Pediátrica;Amarelo;355010;São Manuel;2
+L-392;Centro Obstétrico/Maternidade;Vermelho;353710;Pedreira;3
+L-393;UTI Adulto;Vermelho;353710;Pedreira;3
+L-394;Enfermaria;Amarelo;350740;Borborema;2
+L-395;UTI Adulto;Amarelo;350740;Borborema;2
+L-396;Pronto Socorro;Verde;353520;Palmeira d'Oeste;1
+L-397;Centro Obstétrico/Maternidade;Verde;353520;Palmeira d'Oeste;1
+L-398;UTI Adulto;Verde;352190;Itajobi;1
+L-399;Enfermaria;Amarelo;352190;Itajobi;2
+L-400;Pronto Socorro;Vermelho;354120;Presidente Bernardes;3
+L-401;Enfermaria;Verde;354120;Presidente Bernardes;1
+L-402;Pronto Socorro;Verde;350900;Caieiras;1
+L-403;Centro Obstétrico/Maternidade;Vermelho;350900;Caieiras;3
+L-404;Enfermaria;Vermelho;350810;Buritama;3
+L-405;UTI Pediátrica;Verde;350810;Buritama;1
+L-406;UTI Adulto;Verde;350630;Bernardino de Campos;1
+L-407;UTI Adulto;Verde;350630;Bernardino de Campos;1
+L-408;Enfermaria;Verde;353900;Pirangi;1
+L-409;UTI Adulto;Verde;353900;Pirangi;1
+L-410;UTI Adulto;Verde;353580;Paranapanema;1
+L-411;UTI Adulto;Amarelo;353580;Paranapanema;2
+L-412;UTI Pediátrica;Amarelo;350880;Cafelândia;2
+L-413;Enfermaria;Amarelo;350880;Cafelândia;2
+L-414;Enfermaria;Amarelo;355300;Taguaí;2
+L-415;UTI Pediátrica;Verde;355300;Taguaí;1
+L-416;Centro Obstétrico/Maternidade;Vermelho;350070;Agudos;3
+L-417;Enfermaria;Amarelo;350070;Agudos;2
+L-418;UTI Adulto;Verde;351100;Castilho;1
+L-419;Centro Obstétrico/Maternidade;Amarelo;351100;Castilho;2
+L-420;UTI Adulto;Verde;355630;Valparaíso;1
+L-421;UTI Pediátrica;Vermelho;355630;Valparaíso;3
+L-422;Enfermaria;Verde;352130;Ipuã;1
+L-423;Centro Obstétrico/Maternidade;Verde;352130;Ipuã;1
+L-424;Pronto Socorro;Vermelho;351700;Getulina;3
+L-425;Pronto Socorro;Amarelo;351700;Getulina;2
+L-426;Centro Obstétrico/Maternidade;Amarelo;353475;Ouroeste;2
+L-427;Centro Obstétrico/Maternidade;Amarelo;353475;Ouroeste;2
+L-428;Pronto Socorro;Amarelo;354240;Regente Feijó;2
+L-429;Enfermaria;Verde;354240;Regente Feijó;1
+L-430;Enfermaria;Verde;353240;Nazaré Paulista;1
+L-431;UTI Pediátrica;Amarelo;353240;Nazaré Paulista;2
+L-432;Centro Obstétrico/Maternidade;Amarelo;353740;Pereira Barreto;2
+L-433;UTI Pediátrica;Verde;353740;Pereira Barreto;1
+L-434;UTI Pediátrica;Amarelo;354080;Potirendaba;2
+L-435;Pronto Socorro;Verde;354080;Potirendaba;1
+L-436;UTI Pediátrica;Verde;355260;Tabapuã;1
+L-437;Pronto Socorro;Verde;355260;Tabapuã;1
+L-438;Pronto Socorro;Amarelo;352740;Lucélia;2
+L-439;Pronto Socorro;Amarelo;352740;Lucélia;2
+L-440;Centro Obstétrico/Maternidade;Verde;350130;Álvares Machado;1
+L-441;UTI Pediátrica;Verde;350130;Álvares Machado;1
+L-442;UTI Pediátrica;Verde;351690;General Salgado;1
+L-443;Enfermaria;Vermelho;351690;General Salgado;3
+L-444;UTI Adulto;Verde;352880;Maracaí;1
+L-445;UTI Adulto;Verde;352880;Maracaí;1
+L-446;Centro Obstétrico/Maternidade;Vermelho;355150;Serrana;3
+L-447;Pronto Socorro;Vermelho;355150;Serrana;3
+L-448;UTI Adulto;Vermelho;352800;Macatuba;3
+L-449;Enfermaria;Amarelo;352800;Macatuba;2
+L-450;Centro Obstétrico/Maternidade;Amarelo;351200;Colina;2
+L-451;Centro Obstétrico/Maternidade;Amarelo;351200;Colina;2
+L-452;Pronto Socorro;Amarelo;351990;Iepê;2
+L-453;UTI Pediátrica;Verde;351990;Iepê;1
+L-454;Pronto Socorro;Amarelo;351520;Estrela d'Oeste;2
+L-455;Enfermaria;Amarelo;351520;Estrela d'Oeste;2
+L-456;UTI Pediátrica;Verde;354300;Ribeirão Branco;1
+L-457;Enfermaria;Amarelo;354300;Ribeirão Branco;2
+L-458;Enfermaria;Amarelo;351150;Cerquilho;2
+L-459;Enfermaria;Vermelho;351150;Cerquilho;3
+L-460;UTI Adulto;Vermelho;355080;São Sebastião da Grama;3
+L-461;Centro Obstétrico/Maternidade;Amarelo;355080;São Sebastião da Grama;2
+L-462;UTI Adulto;Verde;351930;Ibaté;1
+L-463;Enfermaria;Verde;351930;Ibaté;1
+L-464;Pronto Socorro;Verde;350840;Cabreúva;1
+L-465;UTI Adulto;Amarelo;350840;Cabreúva;2
+L-466;Pronto Socorro;Vermelho;353860;Piracaia;3
+L-467;Pronto Socorro;Amarelo;353860;Piracaia;2
+L-468;Pronto Socorro;Amarelo;350050;Águas de Lindóia;2
+L-469;UTI Adulto;Amarelo;350050;Águas de Lindóia;2
+L-470;Centro Obstétrico/Maternidade;Amarelo;354000;Pompéia;2
+L-471;Enfermaria;Amarelo;354000;Pompéia;2
+L-472;Enfermaria;Amarelo;351940;Ibirá;2
+L-473;Centro Obstétrico/Maternidade;Amarelo;351940;Ibirá;2
+L-474;Centro Obstétrico/Maternidade;Verde;352090;Ipaussu;1
+L-475;Enfermaria;Amarelo;352090;Ipaussu;2
+L-476;Enfermaria;Vermelho;354500;Salesópolis;3
+L-477;UTI Pediátrica;Amarelo;354500;Salesópolis;2
+L-478;UTI Adulto;Amarelo;354400;Rio das Pedras;2
+L-479;Enfermaria;Amarelo;354400;Rio das Pedras;2
+L-480;UTI Adulto;Vermelho;354540;Salto Grande;3
+L-481;Enfermaria;Amarelo;354540;Salto Grande;2
+L-482;UTI Pediátrica;Amarelo;351160;Cesário Lange;2
+L-483;UTI Pediátrica;Verde;351160;Cesário Lange;1
+L-484;Pronto Socorro;Amarelo;351780;Guaraçaí;2
+L-485;Centro Obstétrico/Maternidade;Verde;351780;Guaraçaí;1
+L-486;UTI Adulto;Amarelo;355680;Viradouro;2
+L-487;Enfermaria;Amarelo;355680;Viradouro;2
+L-488;UTI Adulto;Amarelo;355600;Urupês;2
+L-489;Enfermaria;Verde;355600;Urupês;1
+L-490;Pronto Socorro;Verde;353110;Mongaguá;1
+L-491;UTI Pediátrica;Amarelo;353110;Mongaguá;2
+L-492;Enfermaria;Verde;352180;Itaí;1
+L-493;Pronto Socorro;Verde;352180;Itaí;1
+L-494;Centro Obstétrico/Maternidade;Verde;354560;Santa Adélia;1
+L-495;UTI Pediátrica;Amarelo;354560;Santa Adélia;2
+L-496;UTI Adulto;Vermelho;352350;Itatinga;3
+L-497;Enfermaria;Amarelo;352350;Itatinga;2
+L-498;Enfermaria;Vermelho;354190;Queluz;3
+L-499;Pronto Socorro;Amarelo;354190;Queluz;2
+L-500;UTI Adulto;Verde;352070;Indiaporã;1
+L-501;Pronto Socorro;Verde;352070;Indiaporã;1
+L-502;UTI Pediátrica;Amarelo;350930;Cajobi;2
+L-503;Pronto Socorro;Amarelo;350930;Cajobi;2
+L-504;Centro Obstétrico/Maternidade;Verde;351510;Embu-Guaçu;1
+L-505;UTI Adulto;Amarelo;351510;Embu-Guaçu;2
+L-506;Pronto Socorro;Amarelo;354860;São Bento do Sapucaí;2
+L-507;UTI Pediátrica;Amarelo;354860;São Bento do Sapucaí;2
+L-508;UTI Adulto;Verde;350170;Américo Brasiliense;1
+L-509;Enfermaria;Verde;350170;Américo Brasiliense;1
+L-510;UTI Adulto;Verde;351170;Charqueada;1
+L-511;UTI Adulto;Amarelo;351170;Charqueada;2
+L-512;UTI Pediátrica;Amarelo;352550;Joanópolis;2
+L-513;UTI Adulto;Verde;352550;Joanópolis;1
+L-514;Enfermaria;Vermelho;355580;Urânia;3
+L-515;UTI Pediátrica;Amarelo;355580;Urânia;2
+L-516;Centro Obstétrico/Maternidade;Amarelo;355000;São Luiz do Paraitinga;2
+L-517;Centro Obstétrico/Maternidade;Verde;355000;São Luiz do Paraitinga;1
+L-518;UTI Pediátrica;Vermelho;352290;Itapuí;3
+L-519;UTI Pediátrica;Amarelo;352290;Itapuí;2
+L-520;UTI Pediátrica;Amarelo;354290;Ribeirão Bonito;2
+L-521;UTI Adulto;Amarelo;354290;Ribeirão Bonito;2
+L-522;Pronto Socorro;Amarelo;353290;Nova Europa;2
+L-523;UTI Pediátrica;Amarelo;353290;Nova Europa;2
+L-524;Enfermaria;Vermelho;352360;Itirapina;3
+L-525;Enfermaria;Verde;352360;Itirapina;1
+L-526;Pronto Socorro;Amarelo;351910;Iacanga;2
+L-527;Centro Obstétrico/Maternidade;Verde;351910;Iacanga;1
+L-528;Centro Obstétrico/Maternidade;Vermelho;355090;São Simão;3
+L-529;Centro Obstétrico/Maternidade;Verde;355090;São Simão;1
+L-530;UTI Pediátrica;Amarelo;354040;Populina;2
+L-531;UTI Pediátrica;Amarelo;354040;Populina;2
+L-532;Enfermaria;Vermelho;355360;Tapiratiba;3
+L-533;Centro Obstétrico/Maternidade;Vermelho;355360;Tapiratiba;3
+L-534;UTI Pediátrica;Verde;352520;Jarinu;1
+L-535;Enfermaria;Vermelho;352520;Jarinu;3
+L-536;Pronto Socorro;Amarelo;351230;Conchas;2
+L-537;Enfermaria;Verde;351230;Conchas;1
+L-538;Centro Obstétrico/Maternidade;Verde;355230;Sud Mennucci;1
+L-539;UTI Pediátrica;Amarelo;355230;Sud Mennucci;2
+L-540;Pronto Socorro;Vermelho;354380;Rinópolis;3
+L-541;Pronto Socorro;Vermelho;354380;Rinópolis;3
+L-542;Enfermaria;Vermelho;350710;Bom Jesus dos Perdões;3
+L-543;UTI Pediátrica;Amarelo;350710;Bom Jesus dos Perdões;2
+L-544;UTI Pediátrica;Verde;350860;Cachoeira Paulista;1
+L-545;UTI Adulto;Vermelho;350860;Cachoeira Paulista;3
+L-546;UTI Adulto;Amarelo;353940;Piratininga;2
+L-547;Enfermaria;Amarelo;353940;Piratininga;2
+L-548;UTI Adulto;Amarelo;351660;Gália;2
+L-549;Enfermaria;Amarelo;351660;Gália;2
+L-550;Pronto Socorro;Vermelho;350030;Aguaí;3
+L-551;UTI Pediátrica;Verde;350030;Aguaí;1
+L-552;Centro Obstétrico/Maternidade;Vermelho;350640;Bilac;3
+L-553;Enfermaria;Vermelho;350640;Bilac;3
+L-554;UTI Adulto;Verde;354490;Sales Oliveira;1
+L-555;UTI Adulto;Verde;354490;Sales Oliveira;1
+L-556;Enfermaria;Vermelho;354420;Riolândia;3
+L-557;Centro Obstétrico/Maternidade;Verde;354420;Riolândia;1
+L-558;Centro Obstétrico/Maternidade;Verde;350680;Bocaina;1
+L-559;UTI Adulto;Verde;350680;Bocaina;1
+L-560;Pronto Socorro;Verde;355470;Torrinha;1
+L-561;UTI Pediátrica;Amarelo;355470;Torrinha;2
+L-562;UTI Pediátrica;Vermelho;353200;Morungaba;3
+L-563;UTI Pediátrica;Vermelho;353200;Morungaba;3
+L-564;UTI Adulto;Amarelo;351310;Cravinhos;2
+L-565;Centro Obstétrico/Maternidade;Vermelho;351310;Cravinhos;3
+L-566;Centro Obstétrico/Maternidade;Amarelo;352810;Macaubal;2
+L-567;Enfermaria;Verde;352810;Macaubal;1
+L-568;UTI Pediátrica;Verde;353660;Paulo de Faria;1
+L-569;Centro Obstétrico/Maternidade;Amarelo;353660;Paulo de Faria;2
+L-570;Pronto Socorro;Amarelo;351760;Guapiara;2
+L-571;UTI Pediátrica;Verde;351760;Guapiara;1
+L-572;UTI Adulto;Amarelo;352420;Jaborandi;2
+L-573;Enfermaria;Verde;352420;Jaborandi;1
+L-574;Centro Obstétrico/Maternidade;Amarelo;350340;Arealva;2
+L-575;Centro Obstétrico/Maternidade;Vermelho;350340;Arealva;3
+L-576;UTI Pediátrica;Amarelo;350260;Aparecida d'Oeste;2
+L-577;Pronto Socorro;Verde;350260;Aparecida d'Oeste;1
+L-578;UTI Adulto;Amarelo;350670;Boa Esperança do Sul;2
+L-579;UTI Adulto;Amarelo;350670;Boa Esperança do Sul;2
+L-580;UTI Adulto;Verde;354790;Santo Antônio da Alegria;1
+L-581;UTI Pediátrica;Verde;354790;Santo Antônio da Alegria;1
+L-582;UTI Pediátrica;Verde;355440;Terra Roxa;1
+L-583;UTI Pediátrica;Vermelho;355440;Terra Roxa;3
+L-584;Enfermaria;Verde;353250;Neves Paulista;1
+L-585;Centro Obstétrico/Maternidade;Verde;353250;Neves Paulista;1
+L-586;Enfermaria;Amarelo;350600;Bauru;2
+L-587;Pronto Socorro;Vermelho;350600;Bauru;3
+L-588;UTI Adulto;Vermelho;355200;Silveiras;3
+L-589;Centro Obstétrico/Maternidade;Amarelo;355200;Silveiras;2
+L-590;Pronto Socorro;Amarelo;350310;Arandu;2
+L-591;UTI Pediátrica;Verde;350310;Arandu;1
+L-592;Pronto Socorro;Vermelho;350110;Alto Alegre;3
+L-593;UTI Adulto;Verde;350110;Alto Alegre;1
+L-594;UTI Pediátrica;Vermelho;351210;Colômbia;3
+L-595;Centro Obstétrico/Maternidade;Amarelo;351210;Colômbia;2

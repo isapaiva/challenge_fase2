@@ -1,0 +1,589 @@
+﻿ID;Nome;Profissão;Horas semanais;Plantões noturnos;Folgas (Últimos 7 dias);SP_GESTOR;Nome_Municipio;Prontidao (%);Status
+1;Beatriz Alves (Ges);Médico Clínico Geral;12;3;0;350000;Gestão Estadual (SP);52.0;🟡 Atenção
+2;Gabriel Martins (Ges);Técnica de Enfermagem;44;0;0;350000;Gestão Estadual (SP);34.0;🔴 Crítico
+3;Beatriz Alves (Ges);Enfermeiro;30;2;1;350000;Gestão Estadual (SP);40.0;🔴 Crítico
+4;Juliana Rocha (Ges);Enfermeira Coordenadora;36;2;1;350000;Gestão Estadual (SP);31.0;🔴 Crítico
+5;Camila Santos (Ges);Técnica de Enfermagem;40;0;1;350000;Gestão Estadual (SP);45.0;🔴 Crítico
+6;Lucas Mendes (Ges);Enfermeiro;30;2;0;350000;Gestão Estadual (SP);35.0;🔴 Crítico
+7;Rafael Ribeiro (Ges);Enfermeira Coordenadora;24;0;1;350000;Gestão Estadual (SP);69.0;🟡 Atenção
+8;Camila Santos (Ges);Médico Clínico Geral;16;0;1;350000;Gestão Estadual (SP);81.0;🟢 Apto
+9;Beatriz Alves (Ges);Enfermeiro;16;2;1;350000;Gestão Estadual (SP);61.0;🟡 Atenção
+10;Ana Silva (Ges);Médico Clínico Geral;40;2;2;350000;Gestão Estadual (SP);30.0;🔴 Crítico
+11;Ana Silva (São);Enfermeiro;24;3;1;355030;São Paulo;39.0;🔴 Crítico
+12;Carlos Souza (São);Médico Intensivista;24;1;2;355030;São Paulo;64.0;🟡 Atenção
+13;Mariana Lima (São);Enfermeiro;40;0;2;355030;São Paulo;50.0;🟡 Atenção
+14;Camila Santos (São);Técnica de Enfermagem;36;2;0;355030;São Paulo;26.0;🔴 Crítico
+15;Camila Santos (São);Enfermeira Coordenadora;40;0;1;355030;São Paulo;45.0;🔴 Crítico
+16;Camila Santos (São);Enfermeira Coordenadora;24;3;0;355030;São Paulo;34.0;🔴 Crítico
+17;Camila Santos (São);Médico Clínico Geral;12;1;1;355030;São Paulo;77.0;🟢 Apto
+18;Carlos Souza (São);Técnica de Enfermagem;36;2;2;355030;São Paulo;36.0;🔴 Crítico
+19;Beatriz Alves (São);Médico Intensivista;44;1;2;354990;São José dos Campos;34.0;🔴 Crítico
+20;Beatriz Alves (São);Enfermeiro;16;1;0;354990;São José dos Campos;66.0;🟡 Atenção
+21;Mariana Lima (São);Médico Intensivista;12;1;0;354870;São Bernardo do Campo;72.0;🟢 Apto
+22;Gabriel Martins (São);Enfermeira Coordenadora;24;3;1;354870;São Bernardo do Campo;39.0;🔴 Crítico
+23;Lucas Mendes (Cam);Enfermeira Coordenadora;36;0;0;350950;Campinas;46.0;🔴 Crítico
+24;Camila Santos (Cam);Enfermeiro;30;0;2;350950;Campinas;65.0;🟡 Atenção
+25;Beatriz Alves (San);Médico Intensivista;24;0;0;354780;Santo André;64.0;🟡 Atenção
+26;Lucas Mendes (San);Técnica de Enfermagem;30;2;2;354780;Santo André;45.0;🔴 Crítico
+27;Rafael Ribeiro (Gua);Médico Clínico Geral;44;0;2;351880;Guarulhos;44.0;🔴 Crítico
+28;Rafael Ribeiro (Gua);Médico Intensivista;24;2;2;351880;Guarulhos;54.0;🟡 Atenção
+29;Juliana Rocha (San);Médico Intensivista;24;0;1;354850;Santos;69.0;🟡 Atenção
+30;Juliana Rocha (San);Médico Intensivista;30;1;1;354850;Santos;50.0;🟡 Atenção
+31;Ana Silva (Rib);Médico Clínico Geral;36;1;2;354340;Ribeirão Preto;46.0;🔴 Crítico
+32;Carlos Souza (Rib);Técnica de Enfermagem;12;3;2;354340;Ribeirão Preto;62.0;🟡 Atenção
+33;Mariana Lima (Jun);Médico Intensivista;36;2;1;352590;Jundiaí;31.0;🔴 Crítico
+34;Beatriz Alves (Jun);Enfermeiro;12;3;1;352590;Jundiaí;57.0;🟡 Atenção
+35;Fernando Costa (Bar);Enfermeira Coordenadora;40;3;1;350570;Barueri;15.0;🔴 Crítico
+36;Ana Silva (Bar);Médico Intensivista;12;3;1;350570;Barueri;57.0;🟡 Atenção
+37;Rafael Ribeiro (Sor);Enfermeira Coordenadora;40;0;1;355220;Sorocaba;45.0;🔴 Crítico
+38;Fernando Costa (Sor);Enfermeira Coordenadora;16;1;1;355220;Sorocaba;71.0;🟢 Apto
+39;Juliana Rocha (Osa);Enfermeiro;24;3;0;353440;Osasco;34.0;🔴 Crítico
+40;Mariana Lima (Osa);Enfermeira Coordenadora;24;0;1;353440;Osasco;69.0;🟡 Atenção
+41;Carlos Souza (Pir);Médico Intensivista;16;2;1;353870;Piracicaba;61.0;🟡 Atenção
+42;Mariana Lima (Pir);Enfermeiro;36;3;0;353870;Piracicaba;16.0;🔴 Crítico
+43;Juliana Rocha (São);Enfermeiro;12;2;2;354880;São Caetano do Sul;72.0;🟢 Apto
+44;Fernando Costa (São);Enfermeira Coordenadora;36;2;1;354880;São Caetano do Sul;31.0;🔴 Crítico
+45;Gabriel Martins (Lim);Técnica de Enfermagem;24;2;0;352690;Limeira;44.0;🔴 Crítico
+46;Beatriz Alves (Lim);Enfermeira Coordenadora;36;0;2;352690;Limeira;56.0;🟡 Atenção
+47;Camila Santos (Ara);Enfermeiro;30;1;2;350320;Araraquara;55.0;🟡 Atenção
+48;Rafael Ribeiro (Ara);Técnica de Enfermagem;24;2;0;350320;Araraquara;44.0;🔴 Crítico
+49;Mariana Lima (Our);Médico Clínico Geral;40;2;1;353470;Ourinhos;25.0;🔴 Crítico
+50;Gabriel Martins (Our);Técnica de Enfermagem;12;3;1;353470;Ourinhos;57.0;🟡 Atenção
+51;Beatriz Alves (São);Enfermeira Coordenadora;40;0;0;354890;São Carlos;40.0;🔴 Crítico
+52;Mariana Lima (São);Enfermeiro;40;1;2;354890;São Carlos;40.0;🔴 Crítico
+53;Mariana Lima (Mau);Técnica de Enfermagem;30;0;1;352940;Mauá;60.0;🟡 Atenção
+54;Juliana Rocha (Mau);Médico Clínico Geral;40;2;0;352940;Mauá;20.0;🔴 Crítico
+55;Lucas Mendes (São);Médico Clínico Geral;40;3;0;354980;São José do Rio Preto;10.0;🔴 Crítico
+56;Lucas Mendes (São);Enfermeiro;30;2;1;354980;São José do Rio Preto;40.0;🔴 Crítico
+57;Ana Silva (Gua);Enfermeiro;36;1;2;351870;Guarujá;46.0;🔴 Crítico
+58;Lucas Mendes (Gua);Enfermeira Coordenadora;16;1;1;351870;Guarujá;71.0;🟢 Apto
+59;Lucas Mendes (Ind);Médico Clínico Geral;36;0;0;352050;Indaiatuba;46.0;🔴 Crítico
+60;Gabriel Martins (Ind);Médico Clínico Geral;24;1;2;352050;Indaiatuba;64.0;🟡 Atenção
+61;Lucas Mendes (Mog);Técnica de Enfermagem;12;3;0;353060;Mogi das Cruzes;52.0;🟡 Atenção
+62;Gabriel Martins (Mog);Médico Intensivista;30;0;1;353060;Mogi das Cruzes;60.0;🟡 Atenção
+63;Ana Silva (Jac);Médico Clínico Geral;30;0;1;352440;Jacareí;60.0;🟡 Atenção
+64;Ana Silva (Jac);Enfermeiro;12;0;1;352440;Jacareí;87.0;🟢 Apto
+65;Juliana Rocha (Jaú);Médico Intensivista;30;1;1;352530;Jaú;50.0;🟡 Atenção
+66;Rafael Ribeiro (Jaú);Médico Intensivista;40;2;1;352530;Jaú;25.0;🔴 Crítico
+67;Juliana Rocha (Dia);Técnica de Enfermagem;44;1;1;351380;Diadema;29.0;🔴 Crítico
+68;Mariana Lima (Dia);Enfermeira Coordenadora;12;3;2;351380;Diadema;62.0;🟡 Atenção
+69;Camila Santos (Mar);Médico Clínico Geral;40;0;1;352900;Marília;45.0;🔴 Crítico
+70;Fernando Costa (Mar);Enfermeira Coordenadora;16;3;1;352900;Marília;51.0;🟡 Atenção
+71;Fernando Costa (Bar);Técnica de Enfermagem;44;2;2;350550;Barretos;24.0;🔴 Crítico
+72;Rafael Ribeiro (Bar);Enfermeira Coordenadora;40;1;1;350550;Barretos;35.0;🔴 Crítico
+73;Carlos Souza (Cub);Técnica de Enfermagem;44;0;1;351350;Cubatão;39.0;🔴 Crítico
+74;Camila Santos (Cub);Enfermeiro;44;3;0;351350;Cubatão;4.0;🔴 Crítico
+75;Juliana Rocha (São);Técnica de Enfermagem;24;1;2;355100;São Vicente;64.0;🟡 Atenção
+76;Juliana Rocha (São);Enfermeiro;36;3;0;355100;São Vicente;16.0;🔴 Crítico
+77;Carlos Souza (Pau);Médico Intensivista;44;3;2;353650;Paulínia;14.0;🔴 Crítico
+78;Gabriel Martins (Pau);Médico Clínico Geral;24;1;0;353650;Paulínia;54.0;🟡 Atenção
+79;Mariana Lima (Ava);Enfermeira Coordenadora;24;2;1;350450;Avaré;49.0;🔴 Crítico
+80;Ana Silva (Ava);Técnica de Enfermagem;36;0;1;350450;Avaré;51.0;🟡 Atenção
+81;Rafael Ribeiro (Ita);Enfermeiro;12;1;0;352230;Itapetininga;72.0;🟢 Apto
+82;Fernando Costa (Ita);Técnica de Enfermagem;30;0;1;352230;Itapetininga;60.0;🟡 Atenção
+83;Camila Santos (Rio);Técnica de Enfermagem;16;0;2;354390;Rio Claro;86.0;🟢 Apto
+84;Fernando Costa (Rio);Médico Intensivista;16;0;1;354390;Rio Claro;81.0;🟢 Apto
+85;Juliana Rocha (Ita);Médico Intensivista;44;1;1;352240;Itapeva;29.0;🔴 Crítico
+86;Lucas Mendes (Ita);Enfermeiro;24;2;1;352240;Itapeva;49.0;🔴 Crítico
+87;Carlos Souza (Mog);Enfermeiro;30;2;0;353070;Mogi Guaçu;35.0;🔴 Crítico
+88;Rafael Ribeiro (Mog);Técnica de Enfermagem;44;0;2;353070;Mogi Guaçu;44.0;🔴 Crítico
+89;Carlos Souza (Tau);Enfermeiro;40;2;1;355410;Taubaté;25.0;🔴 Crítico
+90;Camila Santos (Tau);Técnica de Enfermagem;36;1;0;355410;Taubaté;36.0;🔴 Crítico
+91;Gabriel Martins (Car);Médico Clínico Geral;36;2;1;351050;Caraguatatuba;31.0;🔴 Crítico
+92;Lucas Mendes (Car);Médico Clínico Geral;30;1;2;351050;Caraguatatuba;55.0;🟡 Atenção
+93;Carlos Souza (Ame);Enfermeira Coordenadora;24;0;0;350160;Americana;64.0;🟡 Atenção
+94;Ana Silva (Ame);Técnica de Enfermagem;36;0;2;350160;Americana;56.0;🟡 Atenção
+95;Rafael Ribeiro (Itu);Enfermeira Coordenadora;30;0;2;352390;Itu;65.0;🟡 Atenção
+96;Rafael Ribeiro (Itu);Técnica de Enfermagem;40;1;1;352390;Itu;35.0;🔴 Crítico
+97;Beatriz Alves (São);Técnica de Enfermagem;40;0;0;354910;São João da Boa Vista;40.0;🔴 Crítico
+98;Camila Santos (São);Técnica de Enfermagem;24;3;0;354910;São João da Boa Vista;34.0;🔴 Crítico
+99;Beatriz Alves (Lor);Enfermeiro;30;0;2;352720;Lorena;65.0;🟡 Atenção
+100;Ana Silva (Lor);Técnica de Enfermagem;30;0;0;352720;Lorena;55.0;🟡 Atenção
+101;Lucas Mendes (Fra);Técnica de Enfermagem;30;2;2;351630;Francisco Morato;45.0;🔴 Crítico
+102;Carlos Souza (Fra);Médico Clínico Geral;24;0;1;351630;Francisco Morato;69.0;🟡 Atenção
+103;Ana Silva (Pin);Enfermeira Coordenadora;44;0;1;353800;Pindamonhangaba;39.0;🔴 Crítico
+104;Beatriz Alves (Pin);Médico Clínico Geral;40;0;0;353800;Pindamonhangaba;40.0;🔴 Crítico
+105;Rafael Ribeiro (Pra);Técnica de Enfermagem;12;2;1;354100;Praia Grande;67.0;🟡 Atenção
+106;Carlos Souza (Pra);Médico Clínico Geral;36;1;2;354100;Praia Grande;46.0;🔴 Crítico
+107;Juliana Rocha (Suz);Enfermeira Coordenadora;16;0;0;355250;Suzano;76.0;🟢 Apto
+108;Fernando Costa (Suz);Enfermeiro;16;2;1;355250;Suzano;61.0;🟡 Atenção
+109;Rafael Ribeiro (Ara);Técnica de Enfermagem;30;3;1;350330;Araras;30.0;🔴 Crítico
+110;Beatriz Alves (Ara);Médico Clínico Geral;44;3;1;350330;Araras;9.0;🔴 Crítico
+111;Lucas Mendes (Bra);Enfermeiro;44;3;0;350760;Bragança Paulista;4.0;🔴 Crítico
+112;Carlos Souza (Bra);Médico Clínico Geral;44;1;2;350760;Bragança Paulista;34.0;🔴 Crítico
+113;Rafael Ribeiro (San);Médico Intensivista;44;2;1;354580;Santa Bárbara d'Oeste;19.0;🔴 Crítico
+114;Gabriel Martins (San);Médico Clínico Geral;16;0;1;354580;Santa Bárbara d'Oeste;81.0;🟢 Apto
+115;Fernando Costa (Cru);Médico Clínico Geral;30;2;0;351340;Cruzeiro;35.0;🔴 Crítico
+116;Beatriz Alves (Cru);Enfermeiro;12;2;2;351340;Cruzeiro;72.0;🟢 Apto
+117;Carlos Souza (Hor);Médico Intensivista;12;1;1;351907;Hortolândia;77.0;🟢 Apto
+118;Ana Silva (Hor);Médico Clínico Geral;40;2;0;351907;Hortolândia;20.0;🔴 Crítico
+119;Camila Santos (Cam);Enfermeiro;12;3;0;350960;Campo Limpo Paulista;52.0;🟡 Atenção
+120;Fernando Costa (Cam);Médico Intensivista;36;2;0;350960;Campo Limpo Paulista;26.0;🔴 Crítico
+121;Fernando Costa (Gua);Enfermeira Coordenadora;36;1;1;351840;Guaratinguetá;41.0;🔴 Crítico
+122;Camila Santos (Gua);Enfermeira Coordenadora;40;1;1;351840;Guaratinguetá;35.0;🔴 Crítico
+123;Gabriel Martins (Ita);Médico Clínico Geral;36;2;0;352340;Itatiba;26.0;🔴 Crítico
+124;Rafael Ribeiro (Ita);Enfermeiro;36;2;0;352340;Itatiba;26.0;🔴 Crítico
+125;Camila Santos (Ass);Médico Clínico Geral;24;3;0;350400;Assis;34.0;🔴 Crítico
+126;Mariana Lima (Ass);Técnica de Enfermagem;12;3;0;350400;Assis;52.0;🟡 Atenção
+127;Mariana Lima (Ser);Médico Intensivista;40;1;2;355170;Sertãozinho;40.0;🔴 Crítico
+128;Mariana Lima (Ser);Enfermeiro;16;1;0;355170;Sertãozinho;66.0;🟡 Atenção
+129;Lucas Mendes (São);Técnica de Enfermagem;16;3;1;355060;São Roque;51.0;🟡 Atenção
+130;Camila Santos (São);Técnica de Enfermagem;36;0;1;355060;São Roque;51.0;🟡 Atenção
+131;Fernando Costa (Lem);Enfermeira Coordenadora;36;1;0;352670;Leme;36.0;🔴 Crítico
+132;Carlos Souza (Lem);Técnica de Enfermagem;44;1;1;352670;Leme;29.0;🔴 Crítico
+133;Beatriz Alves (Ita);Enfermeira Coordenadora;24;2;0;352260;Itapira;44.0;🔴 Crítico
+134;Beatriz Alves (Ita);Técnica de Enfermagem;44;3;2;352260;Itapira;14.0;🔴 Crítico
+135;Mariana Lima (Jag);Técnica de Enfermagem;44;0;2;352470;Jaguariúna;44.0;🔴 Crítico
+136;Mariana Lima (Jag);Médico Intensivista;36;0;1;352470;Jaguariúna;51.0;🟡 Atenção
+137;Fernando Costa (Ati);Enfermeira Coordenadora;40;0;0;350410;Atibaia;40.0;🔴 Crítico
+138;Gabriel Martins (Ati);Médico Intensivista;36;2;2;350410;Atibaia;36.0;🔴 Crítico
+139;Carlos Souza (Uba);Médico Clínico Geral;30;1;1;355540;Ubatuba;50.0;🟡 Atenção
+140;Camila Santos (Uba);Enfermeira Coordenadora;36;3;1;355540;Ubatuba;21.0;🔴 Crítico
+141;Juliana Rocha (Ada);Enfermeiro;44;2;1;350010;Adamantina;19.0;🔴 Crítico
+142;Gabriel Martins (Ada);Médico Clínico Geral;44;2;2;350010;Adamantina;24.0;🔴 Crítico
+143;Gabriel Martins (Vin);Técnica de Enfermagem;16;0;1;355670;Vinhedo;81.0;🟢 Apto
+144;Juliana Rocha (Vin);Médico Clínico Geral;30;3;1;355670;Vinhedo;30.0;🔴 Crítico
+145;Rafael Ribeiro (Tat);Enfermeira Coordenadora;30;3;0;355400;Tatuí;25.0;🔴 Crítico
+146;Lucas Mendes (Tat);Enfermeiro;36;2;1;355400;Tatuí;31.0;🔴 Crítico
+147;Rafael Ribeiro (Lin);Médico Clínico Geral;40;3;0;352710;Lins;10.0;🔴 Crítico
+148;Camila Santos (Lin);Enfermeiro;44;1;1;352710;Lins;29.0;🔴 Crítico
+149;Rafael Ribeiro (Val);Enfermeira Coordenadora;16;3;0;355620;Valinhos;46.0;🔴 Crítico
+150;Gabriel Martins (Val);Enfermeira Coordenadora;36;3;1;355620;Valinhos;21.0;🔴 Crítico
+151;Rafael Ribeiro (Caj);Médico Clínico Geral;30;3;2;350920;Cajamar;35.0;🔴 Crítico
+152;Ana Silva (Caj);Médico Intensivista;16;2;1;350920;Cajamar;61.0;🟡 Atenção
+153;Mariana Lima (São);Técnica de Enfermagem;36;2;0;355070;São Sebastião;26.0;🔴 Crítico
+154;Beatriz Alves (São);Médico Clínico Geral;16;0;2;355070;São Sebastião;86.0;🟢 Apto
+155;Mariana Lima (Dra);Técnica de Enfermagem;40;3;0;351440;Dracena;10.0;🔴 Crítico
+156;Rafael Ribeiro (Dra);Médico Clínico Geral;44;3;2;351440;Dracena;14.0;🔴 Crítico
+157;Camila Santos (Mai);Médico Clínico Geral;40;0;0;352850;Mairiporã;40.0;🔴 Crítico
+158;Juliana Rocha (Mai);Enfermeiro;16;3;2;352850;Mairiporã;56.0;🟡 Atenção
+159;Lucas Mendes (São);Enfermeiro;16;2;1;354970;São José do Rio Pardo;61.0;🟡 Atenção
+160;Juliana Rocha (São);Técnica de Enfermagem;44;0;0;354970;São José do Rio Pardo;34.0;🔴 Crítico
+161;Lucas Mendes (Bat);Médico Intensivista;40;2;1;350590;Batatais;25.0;🔴 Crítico
+162;Fernando Costa (Bat);Enfermeiro;44;0;1;350590;Batatais;39.0;🔴 Crítico
+163;Camila Santos (San);Médico Clínico Geral;12;3;2;354730;Santana de Parnaíba;62.0;🟡 Atenção
+164;Juliana Rocha (San);Técnica de Enfermagem;24;1;0;354730;Santana de Parnaíba;54.0;🟡 Atenção
+165;Beatriz Alves (Moc);Técnica de Enfermagem;36;0;1;353050;Mococa;51.0;🟡 Atenção
+166;Gabriel Martins (Moc);Médico Intensivista;24;3;0;353050;Mococa;34.0;🔴 Crítico
+167;Rafael Ribeiro (Ibi);Enfermeira Coordenadora;24;1;0;351960;Ibitinga;54.0;🟡 Atenção
+168;Juliana Rocha (Ibi);Técnica de Enfermagem;40;1;1;351960;Ibitinga;35.0;🔴 Crítico
+169;Mariana Lima (Amp);Médico Intensivista;16;1;0;350190;Amparo;66.0;🟡 Atenção
+170;Rafael Ribeiro (Amp);Técnica de Enfermagem;44;1;1;350190;Amparo;29.0;🔴 Crítico
+171;Camila Santos (Mog);Médico Intensivista;36;0;0;353080;Mogi Mirim;46.0;🔴 Crítico
+172;Juliana Rocha (Mog);Técnica de Enfermagem;40;1;0;353080;Mogi Mirim;30.0;🔴 Crítico
+173;Juliana Rocha (San);Técnica de Enfermagem;12;3;2;354640;Santa Cruz do Rio Pardo;62.0;🟡 Atenção
+174;Beatriz Alves (San);Técnica de Enfermagem;24;3;1;354640;Santa Cruz do Rio Pardo;39.0;🔴 Crítico
+175;Beatriz Alves (Sal);Técnica de Enfermagem;30;0;0;354520;Salto;55.0;🟡 Atenção
+176;Gabriel Martins (Sal);Médico Clínico Geral;40;1;1;354520;Salto;35.0;🔴 Crítico
+177;Fernando Costa (Par);Médico Intensivista;36;3;1;353550;Paraguaçu Paulista;21.0;🔴 Crítico
+178;Juliana Rocha (Par);Médico Intensivista;36;1;0;353550;Paraguaçu Paulista;36.0;🔴 Crítico
+179;Beatriz Alves (Bir);Médico Intensivista;36;1;0;350650;Birigui;36.0;🔴 Crítico
+180;Ana Silva (Bir);Enfermeira Coordenadora;24;0;0;350650;Birigui;64.0;🟡 Atenção
+181;Juliana Rocha (Ita);Médico Intensivista;24;3;1;352320;Itararé;39.0;🔴 Crítico
+182;Lucas Mendes (Ita);Enfermeira Coordenadora;30;1;2;352320;Itararé;55.0;🟡 Atenção
+183;Lucas Mendes (And);Técnica de Enfermagem;40;2;2;350210;Andradina;30.0;🔴 Crítico
+184;Ana Silva (And);Médico Intensivista;36;3;1;350210;Andradina;21.0;🔴 Crítico
+185;Mariana Lima (Caç);Médico Intensivista;40;1;0;350850;Caçapava;30.0;🔴 Crítico
+186;Mariana Lima (Caç);Técnica de Enfermagem;40;1;1;350850;Caçapava;35.0;🔴 Crítico
+187;Beatriz Alves (Pen);Enfermeira Coordenadora;40;0;2;353730;Penápolis;50.0;🟡 Atenção
+188;Mariana Lima (Pen);Médico Intensivista;16;2;1;353730;Penápolis;61.0;🟡 Atenção
+189;Rafael Ribeiro (Olí);Médico Clínico Geral;40;3;1;353390;Olímpia;15.0;🔴 Crítico
+190;Lucas Mendes (Olí);Médico Clínico Geral;16;0;0;353390;Olímpia;76.0;🟢 Apto
+191;Ana Silva (Vot);Enfermeiro;30;2;1;355700;Votorantim;40.0;🔴 Crítico
+192;Camila Santos (Vot);Médico Clínico Geral;30;2;2;355700;Votorantim;45.0;🔴 Crítico
+193;Gabriel Martins (Itu);Enfermeiro;36;0;1;352410;Ituverava;51.0;🟡 Atenção
+194;Fernando Costa (Itu);Enfermeiro;16;3;0;352410;Ituverava;46.0;🔴 Crítico
+195;Fernando Costa (Len);Médico Intensivista;30;3;0;352680;Lençóis Paulista;25.0;🔴 Crítico
+196;Lucas Mendes (Len);Enfermeiro;36;3;2;352680;Lençóis Paulista;26.0;🔴 Crítico
+197;Juliana Rocha (Por);Enfermeira Coordenadora;24;1;1;354060;Porto Feliz;59.0;🟡 Atenção
+198;Mariana Lima (Por);Médico Intensivista;44;2;0;354060;Porto Feliz;14.0;🔴 Crítico
+199;Carlos Souza (Taq);Enfermeiro;16;0;1;355370;Taquaritinga;81.0;🟢 Apto
+200;Camila Santos (Taq);Enfermeira Coordenadora;44;3;2;355370;Taquaritinga;14.0;🔴 Crítico
+201;Camila Santos (Itá);Técnica de Enfermagem;12;2;0;352270;Itápolis;62.0;🟡 Atenção
+202;Juliana Rocha (Itá);Técnica de Enfermagem;40;1;2;352270;Itápolis;40.0;🔴 Crítico
+203;Gabriel Martins (Nov);Médico Clínico Geral;12;3;2;353350;Novo Horizonte;62.0;🟡 Atenção
+204;Fernando Costa (Nov);Técnica de Enfermagem;36;2;0;353350;Novo Horizonte;26.0;🔴 Crítico
+205;Carlos Souza (Aru);Enfermeiro;30;1;2;350390;Arujá;55.0;🟡 Atenção
+206;Mariana Lima (Aru);Enfermeira Coordenadora;30;2;1;350390;Arujá;40.0;🔴 Crítico
+207;Juliana Rocha (Mor);Enfermeiro;30;1;1;353190;Morro Agudo;50.0;🟡 Atenção
+208;Juliana Rocha (Mor);Médico Intensivista;36;1;0;353190;Morro Agudo;36.0;🔴 Crítico
+209;Lucas Mendes (Lou);Enfermeiro;40;2;0;352730;Louveira;20.0;🔴 Crítico
+210;Gabriel Martins (Lou);Enfermeiro;16;2;1;352730;Louveira;61.0;🟡 Atenção
+211;Rafael Ribeiro (São);Médico Intensivista;12;0;0;355040;São Pedro;82.0;🟢 Apto
+212;Carlos Souza (São);Enfermeiro;36;0;0;355040;São Pedro;46.0;🔴 Crítico
+213;Mariana Lima (Jab);Médico Clínico Geral;36;3;0;352430;Jaboticabal;16.0;🔴 Crítico
+214;Beatriz Alves (Jab);Técnica de Enfermagem;30;2;2;352430;Jaboticabal;45.0;🔴 Crítico
+215;Fernando Costa (Tab);Médico Intensivista;44;0;1;355280;Taboão da Serra;39.0;🔴 Crítico
+216;Gabriel Martins (Tab);Enfermeira Coordenadora;30;3;1;355280;Taboão da Serra;30.0;🔴 Crítico
+217;Lucas Mendes (Cap);Médico Intensivista;12;0;0;351040;Capivari;82.0;🟢 Apto
+218;Ana Silva (Cap);Médico Clínico Geral;36;1;0;351040;Capivari;36.0;🔴 Crítico
+219;Camila Santos (Caj);Médico Clínico Geral;12;3;0;350940;Cajuru;52.0;🟡 Atenção
+220;Ana Silva (Caj);Médico Intensivista;16;3;0;350940;Cajuru;46.0;🔴 Crítico
+221;Juliana Rocha (Pie);Médico Intensivista;16;1;0;353780;Piedade;66.0;🟡 Atenção
+222;Ana Silva (Pie);Técnica de Enfermagem;24;1;0;353780;Piedade;54.0;🟡 Atenção
+223;Mariana Lima (Esp);Enfermeiro;44;3;0;351518;Espírito Santo do Pinhal;4.0;🔴 Crítico
+224;Beatriz Alves (Esp);Enfermeiro;30;0;2;351518;Espírito Santo do Pinhal;65.0;🟡 Atenção
+225;Ana Silva (Pre);Enfermeiro;12;2;2;354130;Presidente Epitácio;72.0;🟢 Apto
+226;Gabriel Martins (Pre);Médico Clínico Geral;24;3;2;354130;Presidente Epitácio;44.0;🔴 Crítico
+227;Gabriel Martins (Pir);Médico Intensivista;36;3;0;353930;Pirassununga;16.0;🔴 Crítico
+228;Fernando Costa (Pir);Enfermeira Coordenadora;44;1;2;353930;Pirassununga;34.0;🔴 Crítico
+229;Rafael Ribeiro (Boi);Enfermeiro;44;2;2;350700;Boituva;24.0;🔴 Crítico
+230;Gabriel Martins (Boi);Médico Intensivista;36;1;1;350700;Boituva;41.0;🔴 Crítico
+231;Gabriel Martins (Itu);Médico Clínico Geral;40;2;0;352400;Itupeva;20.0;🔴 Crítico
+232;Carlos Souza (Itu);Enfermeira Coordenadora;12;1;2;352400;Itupeva;82.0;🟢 Apto
+233;Fernando Costa (Mon);Médico Clínico Geral;12;3;1;353130;Monte Alto;57.0;🟡 Atenção
+234;Juliana Rocha (Mon);Médico Intensivista;12;0;1;353130;Monte Alto;87.0;🟢 Apto
+235;Gabriel Martins (Cap);Médico Intensivista;16;0;2;351020;Capão Bonito;86.0;🟢 Apto
+236;Carlos Souza (Cap);Enfermeira Coordenadora;40;0;0;351020;Capão Bonito;40.0;🔴 Crítico
+237;Gabriel Martins (San);Médico Intensivista;16;2;0;354680;Santa Isabel;56.0;🟡 Atenção
+238;Gabriel Martins (San);Enfermeira Coordenadora;44;0;0;354680;Santa Isabel;34.0;🔴 Crítico
+239;Camila Santos (San);Médico Intensivista;40;3;1;354660;Santa Fé do Sul;15.0;🔴 Crítico
+240;Fernando Costa (San);Enfermeiro;40;3;1;354660;Santa Fé do Sul;15.0;🔴 Crítico
+241;Ana Silva (Pre);Enfermeiro;30;3;2;354150;Presidente Venceslau;35.0;🔴 Crítico
+242;Juliana Rocha (Pre);Médico Clínico Geral;24;1;1;354150;Presidente Venceslau;59.0;🟡 Atenção
+243;Carlos Souza (Cos);Enfermeiro;30;0;2;351280;Cosmópolis;65.0;🟡 Atenção
+244;Gabriel Martins (Cos);Técnica de Enfermagem;36;1;0;351280;Cosmópolis;36.0;🔴 Crítico
+245;Lucas Mendes (Gua);Enfermeira Coordenadora;24;3;1;351740;Guaíra;39.0;🔴 Crítico
+246;Carlos Souza (Gua);Médico Intensivista;12;1;0;351740;Guaíra;72.0;🟢 Apto
+247;Fernando Costa (Por);Enfermeira Coordenadora;36;0;2;354070;Porto Ferreira;56.0;🟡 Atenção
+248;Mariana Lima (Por);Técnica de Enfermagem;16;2;2;354070;Porto Ferreira;66.0;🟡 Atenção
+249;Beatriz Alves (Ped);Enfermeiro;36;1;2;353670;Pederneiras;46.0;🔴 Crítico
+250;Lucas Mendes (Ped);Enfermeira Coordenadora;12;3;2;353670;Pederneiras;62.0;🟡 Atenção
+251;Juliana Rocha (Osv);Técnica de Enfermagem;44;0;1;353460;Osvaldo Cruz;39.0;🔴 Crítico
+252;Gabriel Martins (Osv);Médico Intensivista;44;0;0;353460;Osvaldo Cruz;34.0;🔴 Crítico
+253;Beatriz Alves (Gar);Enfermeira Coordenadora;16;3;0;351670;Garça;46.0;🔴 Crítico
+254;Rafael Ribeiro (Gar);Médico Intensivista;12;3;2;351670;Garça;62.0;🟡 Atenção
+255;Beatriz Alves (Cam);Enfermeira Coordenadora;24;0;1;350970;Campos do Jordão;69.0;🟡 Atenção
+256;Camila Santos (Cam);Técnica de Enfermagem;24;1;0;350970;Campos do Jordão;54.0;🟡 Atenção
+257;Rafael Ribeiro (Rib);Médico Intensivista;30;1;1;354330;Ribeirão Pires;50.0;🟡 Atenção
+258;Camila Santos (Rib);Médico Intensivista;40;3;0;354330;Ribeirão Pires;10.0;🔴 Crítico
+259;Mariana Lima (Api);Enfermeira Coordenadora;36;0;2;350270;Apiaí;56.0;🟡 Atenção
+260;Fernando Costa (Api);Técnica de Enfermagem;36;1;2;350270;Apiaí;46.0;🔴 Crítico
+261;Mariana Lima (Des);Médico Intensivista;16;3;1;351370;Descalvado;51.0;🟡 Atenção
+262;Lucas Mendes (Des);Enfermeiro;36;1;0;351370;Descalvado;36.0;🔴 Crítico
+263;Fernando Costa (Soc);Técnica de Enfermagem;16;1;1;355210;Socorro;71.0;🟢 Apto
+264;Juliana Rocha (Soc);Técnica de Enfermagem;12;0;0;355210;Socorro;82.0;🟢 Apto
+265;Gabriel Martins (Emb);Enfermeiro;36;1;2;351500;Embu das Artes;46.0;🔴 Crítico
+266;Gabriel Martins (Emb);Médico Intensivista;16;2;1;351500;Embu das Artes;61.0;🟡 Atenção
+267;Mariana Lima (Ilh);Médico Clínico Geral;40;1;2;352040;Ilhabela;40.0;🔴 Crítico
+268;Lucas Mendes (Ilh);Enfermeiro;44;1;2;352040;Ilhabela;34.0;🔴 Crítico
+269;Lucas Mendes (Bar);Enfermeiro;30;1;1;350530;Barra Bonita;50.0;🟡 Atenção
+270;Fernando Costa (Bar);Médico Clínico Geral;44;3;2;350530;Barra Bonita;14.0;🔴 Crítico
+271;Fernando Costa (Var);Médico Clínico Geral;44;0;1;355640;Vargem Grande do Sul;39.0;🔴 Crítico
+272;Camila Santos (Var);Técnica de Enfermagem;24;3;2;355640;Vargem Grande do Sul;44.0;🔴 Crítico
+273;Ana Silva (Beb);Técnica de Enfermagem;40;0;0;350610;Bebedouro;40.0;🔴 Crítico
+274;Lucas Mendes (Beb);Técnica de Enfermagem;30;3;2;350610;Bebedouro;35.0;🔴 Crítico
+275;Rafael Ribeiro (Taq);Enfermeiro;24;2;0;355380;Taquarituba;44.0;🔴 Crítico
+276;Rafael Ribeiro (Taq);Médico Intensivista;12;3;0;355380;Taquarituba;52.0;🟡 Atenção
+277;Ana Silva (Orl);Enfermeiro;24;0;2;353430;Orlândia;74.0;🟢 Apto
+278;Mariana Lima (Orl);Enfermeiro;40;0;2;353430;Orlândia;50.0;🟡 Atenção
+279;Rafael Ribeiro (São);Enfermeira Coordenadora;24;1;2;355020;São Miguel Arcanjo;64.0;🟡 Atenção
+280;Fernando Costa (São);Médico Clínico Geral;36;0;0;355020;São Miguel Arcanjo;46.0;🔴 Crítico
+281;Fernando Costa (Gua);Médico Intensivista;36;1;0;351830;Guararema;36.0;🔴 Crítico
+282;Juliana Rocha (Gua);Médico Intensivista;30;1;2;351830;Guararema;55.0;🟡 Atenção
+283;Fernando Costa (Car);Médico Clínico Geral;24;0;0;351060;Carapicuíba;64.0;🟡 Atenção
+284;Fernando Costa (Car);Médico Clínico Geral;40;1;0;351060;Carapicuíba;30.0;🔴 Crítico
+285;Gabriel Martins (Mar);Técnica de Enfermagem;30;0;1;352920;Martinópolis;60.0;🟡 Atenção
+286;Juliana Rocha (Mar);Enfermeira Coordenadora;16;1;1;352920;Martinópolis;71.0;🟢 Apto
+287;Gabriel Martins (Pal);Médico Intensivista;44;3;1;353530;Palmital;9.0;🔴 Crítico
+288;Camila Santos (Pal);Enfermeiro;40;2;1;353530;Palmital;25.0;🔴 Crítico
+289;Fernando Costa (Aur);Enfermeira Coordenadora;40;3;0;350420;Auriflama;10.0;🔴 Crítico
+290;Camila Santos (Aur);Enfermeiro;30;1;1;350420;Auriflama;50.0;🟡 Atenção
+291;Juliana Rocha (Alt);Médico Intensivista;30;1;0;350100;Altinópolis;45.0;🔴 Crítico
+292;Juliana Rocha (Alt);Enfermeiro;24;3;2;350100;Altinópolis;44.0;🔴 Crítico
+293;Camila Santos (Ber);Enfermeiro;16;1;1;350635;Bertioga;71.0;🟢 Apto
+294;Beatriz Alves (Ber);Enfermeira Coordenadora;16;0;1;350635;Bertioga;81.0;🟢 Apto
+295;Gabriel Martins (Cân);Médico Clínico Geral;44;1;0;351000;Cândido Mota;24.0;🔴 Crítico
+296;Beatriz Alves (Cân);Técnica de Enfermagem;24;2;0;351000;Cândido Mota;44.0;🔴 Crítico
+297;Ana Silva (Pir);Médico Intensivista;12;0;0;353880;Piraju;82.0;🟢 Apto
+298;Rafael Ribeiro (Pir);Médico Clínico Geral;36;3;2;353880;Piraju;26.0;🔴 Crítico
+299;Ana Silva (Iga);Médico Clínico Geral;44;1;2;352010;Igarapava;34.0;🔴 Crítico
+300;Rafael Ribeiro (Iga);Enfermeira Coordenadora;36;0;1;352010;Igarapava;51.0;🟡 Atenção
+301;Ana Silva (Nov);Médico Clínico Geral;12;2;1;353340;Nova Odessa;67.0;🟡 Atenção
+302;Lucas Mendes (Nov);Médico Intensivista;16;1;1;353340;Nova Odessa;71.0;🟢 Apto
+303;Beatriz Alves (Sal);Médico Intensivista;12;1;0;354530;Salto de Pirapora;72.0;🟢 Apto
+304;Carlos Souza (Sal);Médico Intensivista;40;3;0;354530;Salto de Pirapora;10.0;🔴 Crítico
+305;Juliana Rocha (Lar);Técnica de Enfermagem;16;3;2;352640;Laranjal Paulista;56.0;🟡 Atenção
+306;Rafael Ribeiro (Lar);Enfermeira Coordenadora;44;3;1;352640;Laranjal Paulista;9.0;🔴 Crítico
+307;Juliana Rocha (Ang);Enfermeiro;24;2;0;350220;Angatuba;44.0;🔴 Crítico
+308;Fernando Costa (Ang);Técnica de Enfermagem;30;1;2;350220;Angatuba;55.0;🟡 Atenção
+309;Lucas Mendes (Cun);Técnica de Enfermagem;40;2;0;351360;Cunha;20.0;🔴 Crítico
+310;Camila Santos (Cun);Médico Intensivista;30;1;2;351360;Cunha;55.0;🟡 Atenção
+311;Carlos Souza (San);Médico Clínico Geral;30;1;0;354770;Santo Anastácio;45.0;🔴 Crítico
+312;Rafael Ribeiro (San);Técnica de Enfermagem;40;2;0;354770;Santo Anastácio;20.0;🔴 Crítico
+313;Fernando Costa (Mir);Médico Clínico Geral;24;1;2;353030;Mirassol;64.0;🟡 Atenção
+314;Mariana Lima (Mir);Enfermeiro;24;1;2;353030;Mirassol;64.0;🟡 Atenção
+315;Gabriel Martins (Gua);Técnica de Enfermagem;24;2;1;351820;Guararapes;49.0;🔴 Crítico
+316;Beatriz Alves (Gua);Médico Clínico Geral;30;0;0;351820;Guararapes;55.0;🟡 Atenção
+317;Gabriel Martins (Pon);Médico Intensivista;44;2;1;354020;Pontal;19.0;🔴 Crítico
+318;Carlos Souza (Pon);Enfermeira Coordenadora;16;3;1;354020;Pontal;51.0;🟡 Atenção
+319;Carlos Souza (Jun);Enfermeira Coordenadora;36;2;2;352600;Junqueirópolis;36.0;🔴 Crítico
+320;Juliana Rocha (Jun);Enfermeiro;40;0;0;352600;Junqueirópolis;40.0;🔴 Crítico
+321;Beatriz Alves (Pit);Técnica de Enfermagem;30;3;2;353950;Pitangueiras;35.0;🔴 Crítico
+322;Lucas Mendes (Pit);Enfermeira Coordenadora;40;1;1;353950;Pitangueiras;35.0;🔴 Crítico
+323;Juliana Rocha (Mig);Médico Clínico Geral;12;3;2;352970;Miguelópolis;62.0;🟡 Atenção
+324;Beatriz Alves (Mig);Enfermeiro;44;0;2;352970;Miguelópolis;44.0;🔴 Crítico
+325;Fernando Costa (Bar);Técnica de Enfermagem;40;0;1;350520;Bariri;45.0;🔴 Crítico
+326;Juliana Rocha (Bar);Enfermeira Coordenadora;40;1;2;350520;Bariri;40.0;🔴 Crítico
+327;Ana Silva (Con);Técnica de Enfermagem;36;0;2;351220;Conchal;56.0;🟡 Atenção
+328;Rafael Ribeiro (Con);Enfermeiro;12;3;1;351220;Conchal;57.0;🟡 Atenção
+329;Camila Santos (Gua);Técnica de Enfermagem;24;0;0;351770;Guará;64.0;🟡 Atenção
+330;Mariana Lima (Gua);Técnica de Enfermagem;40;1;1;351770;Guará;35.0;🔴 Crítico
+331;Carlos Souza (Cas);Técnica de Enfermagem;30;0;2;351080;Casa Branca;65.0;🟡 Atenção
+332;Gabriel Martins (Cas);Médico Intensivista;30;0;0;351080;Casa Branca;55.0;🟡 Atenção
+333;Rafael Ribeiro (Mon);Enfermeiro;40;2;1;353180;Monte Mor;25.0;🔴 Crítico
+334;Ana Silva (Mon);Enfermeiro;30;3;1;353180;Monte Mor;30.0;🔴 Crítico
+335;Camila Santos (Doi);Enfermeira Coordenadora;24;3;1;351410;Dois Córregos;39.0;🔴 Crítico
+336;Camila Santos (Doi);Médico Clínico Geral;44;1;1;351410;Dois Córregos;29.0;🔴 Crítico
+337;Mariana Lima (Gua);Médico Clínico Geral;36;3;2;351860;Guariba;26.0;🔴 Crítico
+338;Carlos Souza (Gua);Enfermeira Coordenadora;30;0;1;351860;Guariba;60.0;🟡 Atenção
+339;Lucas Mendes (Tup);Médico Clínico Geral;30;2;2;355510;Tupi Paulista;45.0;🔴 Crítico
+340;Gabriel Martins (Tup);Enfermeira Coordenadora;30;3;0;355510;Tupi Paulista;25.0;🔴 Crítico
+341;Lucas Mendes (Ser);Enfermeiro;30;1;0;355160;Serra Negra;45.0;🔴 Crítico
+342;Beatriz Alves (Ser);Técnica de Enfermagem;24;0;0;355160;Serra Negra;64.0;🟡 Atenção
+343;Juliana Rocha (Pir);Médico Clínico Geral;40;3;0;353890;Pirajuí;10.0;🔴 Crítico
+344;Carlos Souza (Pir);Enfermeira Coordenadora;24;3;0;353890;Pirajuí;34.0;🔴 Crítico
+345;Juliana Rocha (San);Enfermeira Coordenadora;12;1;2;354630;Santa Cruz das Palmeiras;82.0;🟢 Apto
+346;Lucas Mendes (San);Técnica de Enfermagem;24;1;1;354630;Santa Cruz das Palmeiras;59.0;🟡 Atenção
+347;Mariana Lima (Tab);Enfermeira Coordenadora;36;3;1;355270;Tabatinga;21.0;🔴 Crítico
+348;Fernando Costa (Tab);Médico Clínico Geral;40;2;1;355270;Tabatinga;25.0;🔴 Crítico
+349;Rafael Ribeiro (Dua);Médico Clínico Geral;12;3;1;351450;Duartina;57.0;🟡 Atenção
+350;Mariana Lima (Dua);Médico Intensivista;24;1;2;351450;Duartina;64.0;🟡 Atenção
+351;Juliana Rocha (Cer);Médico Clínico Geral;24;0;0;351140;Cerqueira César;64.0;🟡 Atenção
+352;Camila Santos (Cer);Técnica de Enfermagem;24;3;2;351140;Cerqueira César;44.0;🔴 Crítico
+353;Gabriel Martins (Ita);Enfermeiro;24;2;1;352220;Itapecerica da Serra;49.0;🔴 Crítico
+354;Camila Santos (Ita);Médico Clínico Geral;36;3;0;352220;Itapecerica da Serra;16.0;🔴 Crítico
+355;Beatriz Alves (Mon);Enfermeira Coordenadora;30;0;1;353150;Monte Azul Paulista;60.0;🟡 Atenção
+356;Camila Santos (Mon);Técnica de Enfermagem;12;2;1;353150;Monte Azul Paulista;67.0;🟡 Atenção
+357;Camila Santos (San);Enfermeiro;24;3;1;354750;Santa Rita do Passa Quatro;39.0;🔴 Crítico
+358;Gabriel Martins (San);Enfermeiro;40;1;0;354750;Santa Rita do Passa Quatro;30.0;🔴 Crítico
+359;Mariana Lima (Teo);Enfermeira Coordenadora;40;0;1;355430;Teodoro Sampaio;45.0;🔴 Crítico
+360;Beatriz Alves (Teo);Enfermeiro;40;1;0;355430;Teodoro Sampaio;30.0;🔴 Crítico
+361;Ana Silva (Bas);Enfermeiro;30;0;2;350580;Bastos;65.0;🟡 Atenção
+362;Camila Santos (Bas);Técnica de Enfermagem;36;0;0;350580;Bastos;46.0;🔴 Crítico
+363;Gabriel Martins (Ita);Médico Clínico Geral;24;0;1;352280;Itaporanga;69.0;🟡 Atenção
+364;Gabriel Martins (Ita);Técnica de Enfermagem;36;2;2;352280;Itaporanga;36.0;🔴 Crítico
+365;Camila Santos (Ita);Enfermeira Coordenadora;40;3;1;352170;Itaberá;15.0;🔴 Crítico
+366;Lucas Mendes (Ita);Enfermeiro;16;3;0;352170;Itaberá;46.0;🔴 Crítico
+367;Mariana Lima (Pil);Técnica de Enfermagem;24;1;0;353790;Pilar do Sul;54.0;🟡 Atenção
+368;Mariana Lima (Pil);Técnica de Enfermagem;44;2;1;353790;Pilar do Sul;19.0;🔴 Crítico
+369;Juliana Rocha (Bro);Médico Clínico Geral;16;3;1;350790;Brotas;51.0;🟡 Atenção
+370;Lucas Mendes (Bro);Médico Clínico Geral;12;3;2;350790;Brotas;62.0;🟡 Atenção
+371;Lucas Mendes (Tie);Médico Intensivista;16;0;0;355450;Tietê;76.0;🟢 Apto
+372;Rafael Ribeiro (Tie);Médico Clínico Geral;24;3;2;355450;Tietê;44.0;🔴 Crítico
+373;Ana Silva (Far);Enfermeira Coordenadora;12;0;0;351540;Fartura;82.0;🟢 Apto
+374;Fernando Costa (Far);Médico Clínico Geral;40;2;0;351540;Fartura;20.0;🔴 Crítico
+375;Ana Silva (Vár);Médico Clínico Geral;36;0;1;355650;Várzea Paulista;51.0;🟡 Atenção
+376;Fernando Costa (Vár);Técnica de Enfermagem;40;3;2;355650;Várzea Paulista;20.0;🔴 Crítico
+377;Beatriz Alves (Ibi);Enfermeiro;12;1;2;351970;Ibiúna;82.0;🟢 Apto
+378;Rafael Ribeiro (Ibi);Enfermeira Coordenadora;12;3;1;351970;Ibiúna;57.0;🟡 Atenção
+379;Camila Santos (Tam);Enfermeiro;40;1;0;355330;Tambaú;30.0;🔴 Crítico
+380;Gabriel Martins (Tam);Enfermeiro;12;0;0;355330;Tambaú;82.0;🟢 Apto
+381;Juliana Rocha (San);Médico Clínico Geral;24;2;2;354760;Santa Rosa de Viterbo;54.0;🟡 Atenção
+382;Mariana Lima (San);Enfermeira Coordenadora;44;0;2;354760;Santa Rosa de Viterbo;44.0;🔴 Crítico
+383;Ana Silva (São);Técnica de Enfermagem;36;2;1;355010;São Manuel;31.0;🔴 Crítico
+384;Beatriz Alves (São);Enfermeiro;24;3;0;355010;São Manuel;34.0;🔴 Crítico
+385;Rafael Ribeiro (Ped);Técnica de Enfermagem;30;0;0;353710;Pedreira;55.0;🟡 Atenção
+386;Juliana Rocha (Ped);Enfermeiro;16;0;0;353710;Pedreira;76.0;🟢 Apto
+387;Fernando Costa (Bor);Médico Intensivista;44;2;0;350740;Borborema;14.0;🔴 Crítico
+388;Ana Silva (Bor);Técnica de Enfermagem;16;1;1;350740;Borborema;71.0;🟢 Apto
+389;Gabriel Martins (Pal);Técnica de Enfermagem;16;0;2;353520;Palmeira d'Oeste;86.0;🟢 Apto
+390;Mariana Lima (Pal);Médico Clínico Geral;12;0;1;353520;Palmeira d'Oeste;87.0;🟢 Apto
+391;Camila Santos (Ita);Médico Intensivista;44;1;2;352190;Itajobi;34.0;🔴 Crítico
+392;Rafael Ribeiro (Ita);Médico Intensivista;16;2;2;352190;Itajobi;66.0;🟡 Atenção
+393;Camila Santos (Pre);Técnica de Enfermagem;24;1;0;354120;Presidente Bernardes;54.0;🟡 Atenção
+394;Beatriz Alves (Pre);Médico Intensivista;24;3;1;354120;Presidente Bernardes;39.0;🔴 Crítico
+395;Gabriel Martins (Cai);Médico Intensivista;36;1;2;350900;Caieiras;46.0;🔴 Crítico
+396;Mariana Lima (Cai);Enfermeira Coordenadora;12;0;1;350900;Caieiras;87.0;🟢 Apto
+397;Rafael Ribeiro (Bur);Enfermeiro;12;2;0;350810;Buritama;62.0;🟡 Atenção
+398;Camila Santos (Bur);Médico Clínico Geral;36;1;0;350810;Buritama;36.0;🔴 Crítico
+399;Lucas Mendes (Ber);Enfermeira Coordenadora;40;3;0;350630;Bernardino de Campos;10.0;🔴 Crítico
+400;Juliana Rocha (Ber);Médico Clínico Geral;16;3;2;350630;Bernardino de Campos;56.0;🟡 Atenção
+401;Carlos Souza (Pir);Enfermeira Coordenadora;36;1;1;353900;Pirangi;41.0;🔴 Crítico
+402;Camila Santos (Pir);Enfermeira Coordenadora;24;3;2;353900;Pirangi;44.0;🔴 Crítico
+403;Lucas Mendes (Par);Técnica de Enfermagem;16;2;0;353580;Paranapanema;56.0;🟡 Atenção
+404;Carlos Souza (Par);Técnica de Enfermagem;30;0;2;353580;Paranapanema;65.0;🟡 Atenção
+405;Gabriel Martins (Caf);Médico Clínico Geral;36;2;0;350880;Cafelândia;26.0;🔴 Crítico
+406;Rafael Ribeiro (Caf);Técnica de Enfermagem;12;2;2;350880;Cafelândia;72.0;🟢 Apto
+407;Ana Silva (Tag);Médico Clínico Geral;16;3;2;355300;Taguaí;56.0;🟡 Atenção
+408;Gabriel Martins (Tag);Médico Intensivista;40;3;0;355300;Taguaí;10.0;🔴 Crítico
+409;Ana Silva (Agu);Técnica de Enfermagem;30;3;1;350070;Agudos;30.0;🔴 Crítico
+410;Beatriz Alves (Agu);Enfermeira Coordenadora;12;0;1;350070;Agudos;87.0;🟢 Apto
+411;Fernando Costa (Cas);Médico Intensivista;24;2;0;351100;Castilho;44.0;🔴 Crítico
+412;Rafael Ribeiro (Cas);Enfermeira Coordenadora;24;1;1;351100;Castilho;59.0;🟡 Atenção
+413;Beatriz Alves (Val);Médico Intensivista;16;1;2;355630;Valparaíso;76.0;🟢 Apto
+414;Beatriz Alves (Val);Médico Intensivista;36;1;0;355630;Valparaíso;36.0;🔴 Crítico
+415;Juliana Rocha (Ipu);Técnica de Enfermagem;30;0;2;352130;Ipuã;65.0;🟡 Atenção
+416;Ana Silva (Ipu);Enfermeiro;16;3;0;352130;Ipuã;46.0;🔴 Crítico
+417;Fernando Costa (Get);Médico Clínico Geral;36;2;2;351700;Getulina;36.0;🔴 Crítico
+418;Fernando Costa (Get);Enfermeiro;36;3;1;351700;Getulina;21.0;🔴 Crítico
+419;Carlos Souza (Our);Enfermeiro;36;0;0;353475;Ouroeste;46.0;🔴 Crítico
+420;Juliana Rocha (Our);Enfermeira Coordenadora;40;0;2;353475;Ouroeste;50.0;🟡 Atenção
+421;Mariana Lima (Reg);Médico Intensivista;24;1;1;354240;Regente Feijó;59.0;🟡 Atenção
+422;Beatriz Alves (Reg);Técnica de Enfermagem;12;0;1;354240;Regente Feijó;87.0;🟢 Apto
+423;Ana Silva (Naz);Técnica de Enfermagem;24;2;2;353240;Nazaré Paulista;54.0;🟡 Atenção
+424;Mariana Lima (Naz);Enfermeiro;44;3;0;353240;Nazaré Paulista;4.0;🔴 Crítico
+425;Fernando Costa (Per);Enfermeira Coordenadora;44;1;2;353740;Pereira Barreto;34.0;🔴 Crítico
+426;Carlos Souza (Per);Médico Clínico Geral;36;0;2;353740;Pereira Barreto;56.0;🟡 Atenção
+427;Juliana Rocha (Pot);Enfermeiro;16;2;0;354080;Potirendaba;56.0;🟡 Atenção
+428;Beatriz Alves (Pot);Técnica de Enfermagem;30;0;0;354080;Potirendaba;55.0;🟡 Atenção
+429;Beatriz Alves (Tab);Médico Intensivista;40;2;2;355260;Tabapuã;30.0;🔴 Crítico
+430;Lucas Mendes (Tab);Enfermeiro;24;1;0;355260;Tabapuã;54.0;🟡 Atenção
+431;Beatriz Alves (Luc);Médico Clínico Geral;40;2;2;352740;Lucélia;30.0;🔴 Crítico
+432;Rafael Ribeiro (Luc);Técnica de Enfermagem;30;0;1;352740;Lucélia;60.0;🟡 Atenção
+433;Mariana Lima (Álv);Médico Intensivista;40;0;2;350130;Álvares Machado;50.0;🟡 Atenção
+434;Juliana Rocha (Álv);Médico Intensivista;30;3;1;350130;Álvares Machado;30.0;🔴 Crítico
+435;Ana Silva (Gen);Enfermeira Coordenadora;30;1;2;351690;General Salgado;55.0;🟡 Atenção
+436;Mariana Lima (Gen);Médico Intensivista;24;3;0;351690;General Salgado;34.0;🔴 Crítico
+437;Carlos Souza (Mar);Técnica de Enfermagem;12;2;0;352880;Maracaí;62.0;🟡 Atenção
+438;Fernando Costa (Mar);Enfermeiro;24;2;2;352880;Maracaí;54.0;🟡 Atenção
+439;Camila Santos (Ser);Técnica de Enfermagem;24;3;2;355150;Serrana;44.0;🔴 Crítico
+440;Ana Silva (Ser);Médico Clínico Geral;36;0;0;355150;Serrana;46.0;🔴 Crítico
+441;Mariana Lima (Mac);Enfermeira Coordenadora;24;2;1;352800;Macatuba;49.0;🔴 Crítico
+442;Juliana Rocha (Mac);Médico Intensivista;36;0;2;352800;Macatuba;56.0;🟡 Atenção
+443;Mariana Lima (Col);Médico Intensivista;40;0;1;351200;Colina;45.0;🔴 Crítico
+444;Beatriz Alves (Col);Técnica de Enfermagem;16;3;1;351200;Colina;51.0;🟡 Atenção
+445;Gabriel Martins (Iep);Médico Clínico Geral;16;0;2;351990;Iepê;86.0;🟢 Apto
+446;Mariana Lima (Iep);Médico Intensivista;40;2;2;351990;Iepê;30.0;🔴 Crítico
+447;Juliana Rocha (Est);Enfermeira Coordenadora;16;0;2;351520;Estrela d'Oeste;86.0;🟢 Apto
+448;Beatriz Alves (Est);Médico Clínico Geral;12;3;0;351520;Estrela d'Oeste;52.0;🟡 Atenção
+449;Gabriel Martins (Rib);Enfermeiro;44;0;0;354300;Ribeirão Branco;34.0;🔴 Crítico
+450;Ana Silva (Rib);Técnica de Enfermagem;30;3;0;354300;Ribeirão Branco;25.0;🔴 Crítico
+451;Gabriel Martins (Cer);Médico Clínico Geral;24;1;2;351150;Cerquilho;64.0;🟡 Atenção
+452;Fernando Costa (Cer);Enfermeira Coordenadora;16;1;1;351150;Cerquilho;71.0;🟢 Apto
+453;Carlos Souza (São);Enfermeiro;24;3;2;355080;São Sebastião da Grama;44.0;🔴 Crítico
+454;Lucas Mendes (São);Médico Intensivista;36;2;2;355080;São Sebastião da Grama;36.0;🔴 Crítico
+455;Rafael Ribeiro (Iba);Técnica de Enfermagem;12;2;1;351930;Ibaté;67.0;🟡 Atenção
+456;Carlos Souza (Iba);Médico Intensivista;40;3;1;351930;Ibaté;15.0;🔴 Crítico
+457;Carlos Souza (Cab);Enfermeira Coordenadora;36;3;2;350840;Cabreúva;26.0;🔴 Crítico
+458;Juliana Rocha (Cab);Enfermeira Coordenadora;44;1;1;350840;Cabreúva;29.0;🔴 Crítico
+459;Beatriz Alves (Pir);Médico Clínico Geral;40;0;2;353860;Piracaia;50.0;🟡 Atenção
+460;Beatriz Alves (Pir);Enfermeiro;12;0;1;353860;Piracaia;87.0;🟢 Apto
+461;Mariana Lima (Águ);Médico Clínico Geral;36;2;0;350050;Águas de Lindóia;26.0;🔴 Crítico
+462;Ana Silva (Águ);Médico Intensivista;12;1;2;350050;Águas de Lindóia;82.0;🟢 Apto
+463;Fernando Costa (Pom);Técnica de Enfermagem;16;3;1;354000;Pompéia;51.0;🟡 Atenção
+464;Fernando Costa (Pom);Enfermeiro;16;1;1;354000;Pompéia;71.0;🟢 Apto
+465;Fernando Costa (Ibi);Enfermeiro;44;1;1;351940;Ibirá;29.0;🔴 Crítico
+466;Juliana Rocha (Ibi);Médico Intensivista;24;2;1;351940;Ibirá;49.0;🔴 Crítico
+467;Camila Santos (Ipa);Técnica de Enfermagem;16;3;1;352090;Ipaussu;51.0;🟡 Atenção
+468;Ana Silva (Ipa);Médico Intensivista;12;2;0;352090;Ipaussu;62.0;🟡 Atenção
+469;Lucas Mendes (Sal);Médico Clínico Geral;36;1;1;354500;Salesópolis;41.0;🔴 Crítico
+470;Gabriel Martins (Sal);Médico Clínico Geral;44;3;1;354500;Salesópolis;9.0;🔴 Crítico
+471;Camila Santos (Rio);Médico Clínico Geral;40;0;0;354400;Rio das Pedras;40.0;🔴 Crítico
+472;Carlos Souza (Rio);Técnica de Enfermagem;24;2;0;354400;Rio das Pedras;44.0;🔴 Crítico
+473;Mariana Lima (Sal);Enfermeiro;30;3;1;354540;Salto Grande;30.0;🔴 Crítico
+474;Gabriel Martins (Sal);Técnica de Enfermagem;24;0;1;354540;Salto Grande;69.0;🟡 Atenção
+475;Rafael Ribeiro (Ces);Médico Intensivista;24;0;0;351160;Cesário Lange;64.0;🟡 Atenção
+476;Camila Santos (Ces);Médico Intensivista;36;0;2;351160;Cesário Lange;56.0;🟡 Atenção
+477;Beatriz Alves (Gua);Enfermeira Coordenadora;44;2;0;351780;Guaraçaí;14.0;🔴 Crítico
+478;Gabriel Martins (Gua);Técnica de Enfermagem;36;0;0;351780;Guaraçaí;46.0;🔴 Crítico
+479;Camila Santos (Vir);Médico Clínico Geral;24;0;2;355680;Viradouro;74.0;🟢 Apto
+480;Mariana Lima (Vir);Técnica de Enfermagem;36;3;2;355680;Viradouro;26.0;🔴 Crítico
+481;Beatriz Alves (Uru);Técnica de Enfermagem;36;1;0;355600;Urupês;36.0;🔴 Crítico
+482;Carlos Souza (Uru);Enfermeira Coordenadora;12;2;2;355600;Urupês;72.0;🟢 Apto
+483;Camila Santos (Mon);Enfermeiro;30;0;2;353110;Mongaguá;65.0;🟡 Atenção
+484;Fernando Costa (Mon);Médico Intensivista;16;0;0;353110;Mongaguá;76.0;🟢 Apto
+485;Lucas Mendes (Ita);Médico Clínico Geral;12;0;1;352180;Itaí;87.0;🟢 Apto
+486;Carlos Souza (Ita);Médico Clínico Geral;30;0;2;352180;Itaí;65.0;🟡 Atenção
+487;Mariana Lima (San);Técnica de Enfermagem;44;3;1;354560;Santa Adélia;9.0;🔴 Crítico
+488;Gabriel Martins (San);Médico Clínico Geral;40;3;0;354560;Santa Adélia;10.0;🔴 Crítico
+489;Mariana Lima (Ita);Enfermeiro;30;0;2;352350;Itatinga;65.0;🟡 Atenção
+490;Lucas Mendes (Ita);Médico Intensivista;12;0;1;352350;Itatinga;87.0;🟢 Apto
+491;Beatriz Alves (Que);Médico Intensivista;36;3;2;354190;Queluz;26.0;🔴 Crítico
+492;Lucas Mendes (Que);Médico Intensivista;40;0;0;354190;Queluz;40.0;🔴 Crítico
+493;Rafael Ribeiro (Ind);Enfermeira Coordenadora;40;0;1;352070;Indiaporã;45.0;🔴 Crítico
+494;Lucas Mendes (Ind);Médico Clínico Geral;12;2;2;352070;Indiaporã;72.0;🟢 Apto
+495;Camila Santos (Caj);Técnica de Enfermagem;30;1;0;350930;Cajobi;45.0;🔴 Crítico
+496;Lucas Mendes (Caj);Médico Clínico Geral;16;3;1;350930;Cajobi;51.0;🟡 Atenção
+497;Ana Silva (Emb);Técnica de Enfermagem;30;2;2;351510;Embu-Guaçu;45.0;🔴 Crítico
+498;Lucas Mendes (Emb);Enfermeiro;16;3;2;351510;Embu-Guaçu;56.0;🟡 Atenção
+499;Camila Santos (São);Médico Intensivista;16;2;2;354860;São Bento do Sapucaí;66.0;🟡 Atenção
+500;Beatriz Alves (São);Médico Clínico Geral;36;1;2;354860;São Bento do Sapucaí;46.0;🔴 Crítico
+501;Juliana Rocha (Amé);Técnica de Enfermagem;12;2;1;350170;Américo Brasiliense;67.0;🟡 Atenção
+502;Beatriz Alves (Amé);Técnica de Enfermagem;12;1;2;350170;Américo Brasiliense;82.0;🟢 Apto
+503;Mariana Lima (Cha);Médico Clínico Geral;36;2;2;351170;Charqueada;36.0;🔴 Crítico
+504;Juliana Rocha (Cha);Médico Clínico Geral;24;3;0;351170;Charqueada;34.0;🔴 Crítico
+505;Fernando Costa (Joa);Enfermeira Coordenadora;36;1;2;352550;Joanópolis;46.0;🔴 Crítico
+506;Carlos Souza (Joa);Médico Intensivista;36;0;0;352550;Joanópolis;46.0;🔴 Crítico
+507;Juliana Rocha (Urâ);Técnica de Enfermagem;30;0;2;355580;Urânia;65.0;🟡 Atenção
+508;Gabriel Martins (Urâ);Médico Clínico Geral;16;3;1;355580;Urânia;51.0;🟡 Atenção
+509;Lucas Mendes (São);Médico Clínico Geral;44;0;1;355000;São Luiz do Paraitinga;39.0;🔴 Crítico
+510;Juliana Rocha (São);Médico Intensivista;12;2;1;355000;São Luiz do Paraitinga;67.0;🟡 Atenção
+511;Rafael Ribeiro (Ita);Enfermeira Coordenadora;12;1;0;352290;Itapuí;72.0;🟢 Apto
+512;Beatriz Alves (Ita);Técnica de Enfermagem;36;2;2;352290;Itapuí;36.0;🔴 Crítico
+513;Ana Silva (Rib);Médico Clínico Geral;44;2;2;354290;Ribeirão Bonito;24.0;🔴 Crítico
+514;Gabriel Martins (Rib);Técnica de Enfermagem;44;3;1;354290;Ribeirão Bonito;9.0;🔴 Crítico
+515;Camila Santos (Nov);Médico Intensivista;12;2;2;353290;Nova Europa;72.0;🟢 Apto
+516;Beatriz Alves (Nov);Técnica de Enfermagem;16;0;1;353290;Nova Europa;81.0;🟢 Apto
+517;Gabriel Martins (Iti);Médico Clínico Geral;30;0;2;352360;Itirapina;65.0;🟡 Atenção
+518;Carlos Souza (Iti);Enfermeiro;16;1;2;352360;Itirapina;76.0;🟢 Apto
+519;Beatriz Alves (Iac);Médico Intensivista;16;0;1;351910;Iacanga;81.0;🟢 Apto
+520;Mariana Lima (Iac);Enfermeiro;40;1;1;351910;Iacanga;35.0;🔴 Crítico
+521;Ana Silva (São);Médico Clínico Geral;30;0;2;355090;São Simão;65.0;🟡 Atenção
+522;Lucas Mendes (São);Médico Clínico Geral;24;0;1;355090;São Simão;69.0;🟡 Atenção
+523;Rafael Ribeiro (Pop);Médico Clínico Geral;30;2;2;354040;Populina;45.0;🔴 Crítico
+524;Camila Santos (Pop);Médico Intensivista;30;2;0;354040;Populina;35.0;🔴 Crítico
+525;Lucas Mendes (Tap);Médico Intensivista;24;2;2;355360;Tapiratiba;54.0;🟡 Atenção
+526;Carlos Souza (Tap);Médico Clínico Geral;16;1;2;355360;Tapiratiba;76.0;🟢 Apto
+527;Carlos Souza (Jar);Médico Intensivista;24;2;0;352520;Jarinu;44.0;🔴 Crítico
+528;Rafael Ribeiro (Jar);Técnica de Enfermagem;44;3;0;352520;Jarinu;4.0;🔴 Crítico
+529;Juliana Rocha (Con);Médico Clínico Geral;44;1;0;351230;Conchas;24.0;🔴 Crítico
+530;Lucas Mendes (Con);Enfermeiro;24;3;1;351230;Conchas;39.0;🔴 Crítico
+531;Beatriz Alves (Sud);Médico Intensivista;40;3;0;355230;Sud Mennucci;10.0;🔴 Crítico
+532;Beatriz Alves (Sud);Médico Intensivista;30;0;1;355230;Sud Mennucci;60.0;🟡 Atenção
+533;Juliana Rocha (Rin);Enfermeira Coordenadora;30;3;1;354380;Rinópolis;30.0;🔴 Crítico
+534;Camila Santos (Rin);Enfermeiro;40;0;2;354380;Rinópolis;50.0;🟡 Atenção
+535;Rafael Ribeiro (Bom);Técnica de Enfermagem;24;3;0;350710;Bom Jesus dos Perdões;34.0;🔴 Crítico
+536;Carlos Souza (Bom);Enfermeira Coordenadora;12;1;2;350710;Bom Jesus dos Perdões;82.0;🟢 Apto
+537;Juliana Rocha (Cac);Médico Clínico Geral;12;3;0;350860;Cachoeira Paulista;52.0;🟡 Atenção
+538;Mariana Lima (Cac);Enfermeira Coordenadora;24;3;0;350860;Cachoeira Paulista;34.0;🔴 Crítico
+539;Rafael Ribeiro (Pir);Médico Clínico Geral;12;2;2;353940;Piratininga;72.0;🟢 Apto
+540;Fernando Costa (Pir);Enfermeiro;16;0;0;353940;Piratininga;76.0;🟢 Apto
+541;Carlos Souza (Gál);Médico Clínico Geral;24;1;0;351660;Gália;54.0;🟡 Atenção
+542;Fernando Costa (Gál);Técnica de Enfermagem;16;1;0;351660;Gália;66.0;🟡 Atenção
+543;Camila Santos (Agu);Médico Clínico Geral;44;1;2;350030;Aguaí;34.0;🔴 Crítico
+544;Ana Silva (Agu);Médico Intensivista;36;1;0;350030;Aguaí;36.0;🔴 Crítico
+545;Fernando Costa (Bil);Enfermeiro;36;0;0;350640;Bilac;46.0;🔴 Crítico
+546;Beatriz Alves (Bil);Enfermeira Coordenadora;24;3;2;350640;Bilac;44.0;🔴 Crítico
+547;Mariana Lima (Sal);Enfermeiro;30;1;2;354490;Sales Oliveira;55.0;🟡 Atenção
+548;Juliana Rocha (Sal);Médico Intensivista;30;2;2;354490;Sales Oliveira;45.0;🔴 Crítico
+549;Fernando Costa (Rio);Médico Intensivista;36;0;1;354420;Riolândia;51.0;🟡 Atenção
+550;Fernando Costa (Rio);Enfermeiro;30;2;1;354420;Riolândia;40.0;🔴 Crítico
+551;Mariana Lima (Boc);Técnica de Enfermagem;36;3;0;350680;Bocaina;16.0;🔴 Crítico
+552;Fernando Costa (Boc);Médico Intensivista;40;0;2;350680;Bocaina;50.0;🟡 Atenção
+553;Ana Silva (Tor);Enfermeira Coordenadora;44;2;0;355470;Torrinha;14.0;🔴 Crítico
+554;Gabriel Martins (Tor);Enfermeiro;44;3;2;355470;Torrinha;14.0;🔴 Crítico
+555;Gabriel Martins (Mor);Médico Intensivista;30;1;0;353200;Morungaba;45.0;🔴 Crítico
+556;Camila Santos (Mor);Médico Clínico Geral;30;2;1;353200;Morungaba;40.0;🔴 Crítico
+557;Beatriz Alves (Cra);Enfermeiro;44;0;2;351310;Cravinhos;44.0;🔴 Crítico
+558;Camila Santos (Cra);Técnica de Enfermagem;40;0;0;351310;Cravinhos;40.0;🔴 Crítico
+559;Camila Santos (Mac);Médico Intensivista;40;1;0;352810;Macaubal;30.0;🔴 Crítico
+560;Beatriz Alves (Mac);Enfermeiro;44;2;1;352810;Macaubal;19.0;🔴 Crítico
+561;Lucas Mendes (Pau);Técnica de Enfermagem;30;2;2;353660;Paulo de Faria;45.0;🔴 Crítico
+562;Mariana Lima (Pau);Técnica de Enfermagem;30;3;1;353660;Paulo de Faria;30.0;🔴 Crítico
+563;Juliana Rocha (Gua);Médico Intensivista;44;0;0;351760;Guapiara;34.0;🔴 Crítico
+564;Beatriz Alves (Gua);Médico Clínico Geral;16;1;1;351760;Guapiara;71.0;🟢 Apto
+565;Camila Santos (Jab);Enfermeira Coordenadora;24;2;1;352420;Jaborandi;49.0;🔴 Crítico
+566;Gabriel Martins (Jab);Enfermeiro;44;1;2;352420;Jaborandi;34.0;🔴 Crítico
+567;Juliana Rocha (Are);Médico Intensivista;40;0;0;350340;Arealva;40.0;🔴 Crítico
+568;Carlos Souza (Are);Médico Clínico Geral;16;3;2;350340;Arealva;56.0;🟡 Atenção
+569;Lucas Mendes (Apa);Médico Clínico Geral;12;2;1;350260;Aparecida d'Oeste;67.0;🟡 Atenção
+570;Camila Santos (Apa);Enfermeira Coordenadora;12;3;2;350260;Aparecida d'Oeste;62.0;🟡 Atenção
+571;Ana Silva (Boa);Médico Clínico Geral;36;0;1;350670;Boa Esperança do Sul;51.0;🟡 Atenção
+572;Fernando Costa (Boa);Médico Clínico Geral;44;0;2;350670;Boa Esperança do Sul;44.0;🔴 Crítico
+573;Gabriel Martins (San);Enfermeira Coordenadora;12;2;1;354790;Santo Antônio da Alegria;67.0;🟡 Atenção
+574;Juliana Rocha (San);Médico Intensivista;40;0;2;354790;Santo Antônio da Alegria;50.0;🟡 Atenção
+575;Camila Santos (Ter);Médico Clínico Geral;44;0;1;355440;Terra Roxa;39.0;🔴 Crítico
+576;Camila Santos (Ter);Enfermeiro;16;2;0;355440;Terra Roxa;56.0;🟡 Atenção
+577;Mariana Lima (Nev);Médico Clínico Geral;40;1;0;353250;Neves Paulista;30.0;🔴 Crítico
+578;Juliana Rocha (Nev);Médico Clínico Geral;44;0;2;353250;Neves Paulista;44.0;🔴 Crítico
+579;Fernando Costa (Bau);Técnica de Enfermagem;12;2;1;350600;Bauru;67.0;🟡 Atenção
+580;Fernando Costa (Bau);Enfermeira Coordenadora;16;0;2;350600;Bauru;86.0;🟢 Apto
+581;Carlos Souza (Sil);Enfermeiro;40;1;0;355200;Silveiras;30.0;🔴 Crítico
+582;Mariana Lima (Sil);Médico Clínico Geral;44;3;2;355200;Silveiras;14.0;🔴 Crítico
+583;Beatriz Alves (Ara);Médico Clínico Geral;12;0;2;350310;Arandu;92.0;🟢 Apto
+584;Gabriel Martins (Ara);Enfermeiro;36;2;1;350310;Arandu;31.0;🔴 Crítico
+585;Rafael Ribeiro (Alt);Médico Clínico Geral;40;2;2;350110;Alto Alegre;30.0;🔴 Crítico
+586;Carlos Souza (Alt);Enfermeira Coordenadora;30;2;2;350110;Alto Alegre;45.0;🔴 Crítico
+587;Gabriel Martins (Col);Enfermeira Coordenadora;12;0;2;351210;Colômbia;92.0;🟢 Apto
+588;Mariana Lima (Col);Enfermeira Coordenadora;16;3;2;351210;Colômbia;56.0;🟡 Atenção

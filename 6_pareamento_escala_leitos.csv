@@ -1,0 +1,596 @@
+﻿ID Leito;Setor;Classificação;C_Leito;Profissional Alocado;Prontidao (%);Status;Municipio
+L-588;UTI Adulto;Vermelho;3;Gabriel Martins (Col);92.0;🟢 Apto;Silveiras
+L-587;Pronto Socorro;Vermelho;3;Beatriz Alves (Ara);92.0;🟢 Apto;Bauru
+L-583;UTI Pediátrica;Vermelho;3;Lucas Mendes (Ita);87.0;🟢 Apto;Terra Roxa
+L-594;UTI Pediátrica;Vermelho;3;Lucas Mendes (Ita);87.0;🟢 Apto;Colômbia
+L-592;Pronto Socorro;Vermelho;3;Ana Silva (Jac);87.0;🟢 Apto;Alto Alegre
+L-355;UTI Adulto;Vermelho;3;Beatriz Alves (Reg);87.0;🟢 Apto;Tabatinga
+L-047;Centro Obstétrico/Maternidade;Vermelho;3;Beatriz Alves (Pir);87.0;🟢 Apto;Osasco
+L-045;UTI Adulto;Vermelho;3;Mariana Lima (Pal);87.0;🟢 Apto;Sorocaba
+L-044;UTI Pediátrica;Vermelho;3;Mariana Lima (Cai);87.0;🟢 Apto;Sorocaba
+L-042;Enfermaria;Vermelho;3;Beatriz Alves (Agu);87.0;🟢 Apto;Barueri
+L-039;UTI Adulto;Vermelho;3;Juliana Rocha (Mon);87.0;🟢 Apto;Ribeirão Preto
+L-343;Pronto Socorro;Vermelho;3;Juliana Rocha (Est);86.0;🟢 Apto;Dois Córregos
+L-383;Pronto Socorro;Vermelho;3;Gabriel Martins (Pal);86.0;🟢 Apto;Várzea Paulista
+L-390;Pronto Socorro;Vermelho;3;Gabriel Martins (Cap);86.0;🟢 Apto;São Manuel
+L-388;UTI Pediátrica;Vermelho;3;Gabriel Martins (Iep);86.0;🟢 Apto;Santa Rosa de Viterbo
+L-334;Centro Obstétrico/Maternidade;Vermelho;3;Beatriz Alves (São);86.0;🟢 Apto;Conchal
+L-332;Centro Obstétrico/Maternidade;Vermelho;3;Camila Santos (Rio);86.0;🟢 Apto;Bariri
+L-328;UTI Adulto;Vermelho;3;Fernando Costa (Bau);86.0;🟢 Apto;Pitangueiras
+L-327;Pronto Socorro;Vermelho;3;Lucas Mendes (Cap);82.0;🟢 Apto;Junqueirópolis
+L-325;UTI Adulto;Vermelho;3;Ana Silva (Pir);82.0;🟢 Apto;Pontal
+L-404;Enfermaria;Vermelho;3;Juliana Rocha (San);82.0;🟢 Apto;Buritama
+L-054;Centro Obstétrico/Maternidade;Vermelho;3;Rafael Ribeiro (São);82.0;🟢 Apto;Araraquara
+L-563;UTI Pediátrica;Vermelho;3;Ana Silva (Far);82.0;🟢 Apto;Morungaba
+L-562;UTI Pediátrica;Vermelho;3;Juliana Rocha (Soc);82.0;🟢 Apto;Morungaba
+L-556;Enfermaria;Vermelho;3;Gabriel Martins (Tam);82.0;🟢 Apto;Riolândia
+L-553;Enfermaria;Vermelho;3;Beatriz Alves (Ibi);82.0;🟢 Apto;Bilac
+L-552;Centro Obstétrico/Maternidade;Vermelho;3;Carlos Souza (Bom);82.0;🟢 Apto;Bilac
+L-550;Pronto Socorro;Vermelho;3;Carlos Souza (Itu);82.0;🟢 Apto;Aguaí
+L-050;Enfermaria;Vermelho;3;Beatriz Alves (Amé);82.0;🟢 Apto;São Caetano do Sul
+L-313;UTI Pediátrica;Vermelho;3;Ana Silva (Águ);82.0;🟢 Apto;Laranjal Paulista
+L-403;Centro Obstétrico/Maternidade;Vermelho;3;Gabriel Martins (San);81.0;🟢 Apto;Caieiras
+L-400;Pronto Socorro;Vermelho;3;Beatriz Alves (Nov);81.0;🟢 Apto;Presidente Bernardes
+L-393;UTI Adulto;Vermelho;3;Camila Santos (Ges);81.0;🟢 Apto;Pedreira
+L-392;Centro Obstétrico/Maternidade;Vermelho;3;Beatriz Alves (Iac);81.0;🟢 Apto;Pedreira
+L-293;Pronto Socorro;Vermelho;3;Beatriz Alves (Ber);81.0;🟢 Apto;Martinópolis
+L-416;Centro Obstétrico/Maternidade;Vermelho;3;Carlos Souza (Taq);81.0;🟢 Apto;Agudos
+L-285;UTI Adulto;Vermelho;3;Fernando Costa (Rio);81.0;🟢 Apto;Orlândia
+L-071;Enfermaria;Vermelho;3;Gabriel Martins (Vin);81.0;🟢 Apto;Jacareí
+L-424;Pronto Socorro;Vermelho;3;Carlos Souza (Hor);77.0;🟢 Apto;Getulina
+L-421;UTI Pediátrica;Vermelho;3;Camila Santos (São);77.0;🟢 Apto;Valparaíso
+L-270;Centro Obstétrico/Maternidade;Vermelho;3;Lucas Mendes (Olí);76.0;🟢 Apto;Socorro
+L-264;UTI Adulto;Vermelho;3;Juliana Rocha (Suz);76.0;🟢 Apto;Ribeirão Pires
+L-260;Centro Obstétrico/Maternidade;Vermelho;3;Carlos Souza (Tap);76.0;🟢 Apto;Garça
+L-448;UTI Adulto;Vermelho;3;Carlos Souza (Iti);76.0;🟢 Apto;Macatuba
+L-447;Pronto Socorro;Vermelho;3;Fernando Costa (Mon);76.0;🟢 Apto;Serrana
+L-446;Centro Obstétrico/Maternidade;Vermelho;3;Beatriz Alves (Val);76.0;🟢 Apto;Serrana
+L-443;Enfermaria;Vermelho;3;Fernando Costa (Pir);76.0;🟢 Apto;General Salgado
+L-291;UTI Adulto;Vermelho;3;Juliana Rocha (Ped);76.0;🟢 Apto;Carapicuíba
+L-259;Centro Obstétrico/Maternidade;Vermelho;3;Lucas Mendes (Tie);76.0;🟢 Apto;Osvaldo Cruz
+L-258;Centro Obstétrico/Maternidade;Vermelho;3;Ana Silva (Orl);74.0;🟢 Apto;Osvaldo Cruz
+L-249;Enfermaria;Vermelho;3;Camila Santos (Vir);74.0;🟢 Apto;Presidente Venceslau
+L-274;UTI Adulto;Vermelho;3;Rafael Ribeiro (Ita);72.0;🟢 Apto;Ilhabela
+L-460;UTI Adulto;Vermelho;3;Carlos Souza (Uru);72.0;🟢 Apto;São Sebastião da Grama
+L-459;Enfermaria;Vermelho;3;Beatriz Alves (Cru);72.0;🟢 Apto;Cerquilho
+L-087;Enfermaria;Vermelho;3;Lucas Mendes (Ind);72.0;🟢 Apto;Avaré
+L-545;UTI Adulto;Vermelho;3;Mariana Lima (São);72.0;🟢 Apto;Cachoeira Paulista
+L-542;Enfermaria;Vermelho;3;Juliana Rocha (São);72.0;🟢 Apto;Bom Jesus dos Perdões
+L-541;Pronto Socorro;Vermelho;3;Beatriz Alves (Sal);72.0;🟢 Apto;Rinópolis
+L-540;Pronto Socorro;Vermelho;3;Rafael Ribeiro (Caf);72.0;🟢 Apto;Rinópolis
+L-241;Enfermaria;Vermelho;3;Ana Silva (Pre);72.0;🟢 Apto;Monte Alto
+L-240;Centro Obstétrico/Maternidade;Vermelho;3;Carlos Souza (Gua);72.0;🟢 Apto;Monte Alto
+L-231;Centro Obstétrico/Maternidade;Vermelho;3;Rafael Ribeiro (Pir);72.0;🟢 Apto;Espírito Santo do Pinhal
+L-227;Pronto Socorro;Vermelho;3;Rafael Ribeiro (Ita);72.0;🟢 Apto;Cajuru
+L-222;Centro Obstétrico/Maternidade;Vermelho;3;Camila Santos (Nov);72.0;🟢 Apto;Taboão da Serra
+L-218;UTI Adulto;Vermelho;3;Fernando Costa (Cer);71.0;🟢 Apto;São Pedro
+L-466;Pronto Socorro;Vermelho;3;Fernando Costa (Pom);71.0;🟢 Apto;Piracaia
+L-202;UTI Pediátrica;Vermelho;3;Juliana Rocha (Mar);71.0;🟢 Apto;Lençóis Paulista
+L-201;UTI Pediátrica;Vermelho;3;Beatriz Alves (Gua);71.0;🟢 Apto;Ituverava
+L-106;UTI Adulto;Vermelho;3;Lucas Mendes (Gua);71.0;🟢 Apto;Lorena
+L-102;UTI Adulto;Vermelho;3;Fernando Costa (Soc);71.0;🟢 Apto;Itu
+L-130;Pronto Socorro;Vermelho;3;Ana Silva (Bor);71.0;🟢 Apto;Itatiba
+L-129;UTI Adulto;Vermelho;3;Fernando Costa (Sor);71.0;🟢 Apto;Guaratinguetá
+L-092;Centro Obstétrico/Maternidade;Vermelho;3;Lucas Mendes (Nov);71.0;🟢 Apto;Itapeva
+L-091;Enfermaria;Vermelho;3;Camila Santos (Ber);71.0;🟢 Apto;Rio Claro
+L-196;Centro Obstétrico/Maternidade;Vermelho;3;Gabriel Martins (Sal);69.0;🟡 Atenção;Olímpia
+L-480;UTI Adulto;Vermelho;3;Carlos Souza (Fra);69.0;🟡 Atenção;Salto Grande
+L-476;Enfermaria;Vermelho;3;Gabriel Martins (Ita);69.0;🟡 Atenção;Salesópolis
+L-193;Enfermaria;Vermelho;3;Beatriz Alves (Cam);69.0;🟡 Atenção;Caçapava
+L-189;UTI Pediátrica;Vermelho;3;Juliana Rocha (San);69.0;🟡 Atenção;Itararé
+L-183;UTI Pediátrica;Vermelho;3;Mariana Lima (Osa);69.0;🟡 Atenção;Salto
+L-181;UTI Adulto;Vermelho;3;Lucas Mendes (São);69.0;🟡 Atenção;Santa Cruz do Rio Pardo
+L-210;UTI Adulto;Vermelho;3;Rafael Ribeiro (Ges);69.0;🟡 Atenção;Novo Horizonte
+L-172;UTI Adulto;Vermelho;3;Camila Santos (Mon);67.0;🟡 Atenção;Mococa
+L-170;UTI Adulto;Vermelho;3;Gabriel Martins (San);67.0;🟡 Atenção;Santana de Parnaíba
+L-119;Enfermaria;Vermelho;3;Rafael Ribeiro (Pra);67.0;🟡 Atenção;Bragança Paulista
+L-117;Pronto Socorro;Vermelho;3;Rafael Ribeiro (Iba);67.0;🟡 Atenção;Araras
+L-528;Centro Obstétrico/Maternidade;Vermelho;3;Juliana Rocha (São);67.0;🟡 Atenção;São Simão
+L-524;Enfermaria;Vermelho;3;Juliana Rocha (Amé);67.0;🟡 Atenção;Itirapina
+L-535;Enfermaria;Vermelho;3;Fernando Costa (Bau);67.0;🟡 Atenção;Jarinu
+L-533;Centro Obstétrico/Maternidade;Vermelho;3;Ana Silva (Nov);67.0;🟡 Atenção;Tapiratiba
+L-532;Enfermaria;Vermelho;3;Lucas Mendes (Apa);67.0;🟡 Atenção;Tapiratiba
+L-169;Centro Obstétrico/Maternidade;Vermelho;3;Camila Santos (São);66.0;🟡 Atenção;Batatais
+L-165;UTI Pediátrica;Vermelho;3;Mariana Lima (Ser);66.0;🟡 Atenção;Mairiporã
+L-498;Enfermaria;Vermelho;3;Fernando Costa (Gál);66.0;🟡 Atenção;Queluz
+L-496;UTI Adulto;Vermelho;3;Beatriz Alves (São);66.0;🟡 Atenção;Itatinga
+L-159;UTI Adulto;Vermelho;3;Rafael Ribeiro (Ita);66.0;🟡 Atenção;Cajamar
+L-158;Enfermaria;Vermelho;3;Mariana Lima (Por);66.0;🟡 Atenção;Cajamar
+L-157;Pronto Socorro;Vermelho;3;Mariana Lima (Amp);66.0;🟡 Atenção;Valinhos
+L-514;Enfermaria;Vermelho;3;Juliana Rocha (Pie);66.0;🟡 Atenção;Urânia
+L-518;UTI Pediátrica;Vermelho;3;Carlos Souza (Par);65.0;🟡 Atenção;Itapuí
+L-138;UTI Adulto;Vermelho;3;Carlos Souza (Cos);65.0;🟡 Atenção;Leme
+L-163;Enfermaria;Vermelho;3;Ana Silva (Bas);65.0;🟡 Atenção;Dracena
+L-127;Centro Obstétrico/Maternidade;Vermelho;3;Carlos Souza (Cas);65.0;🟡 Atenção;Campo Limpo Paulista
+L-004;Enfermaria;Vermelho;3;Camila Santos (Cam);65.0;🟡 Atenção;Gestão Estadual (SP)
+L-014;Pronto Socorro;Vermelho;3;Beatriz Alves (Lor);65.0;🟡 Atenção;Gestão Estadual (SP)
+L-012;Enfermaria;Vermelho;3;Beatriz Alves (Esp);65.0;🟡 Atenção;Gestão Estadual (SP)
+L-009;Centro Obstétrico/Maternidade;Vermelho;3;Carlos Souza (Ita);65.0;🟡 Atenção;Gestão Estadual (SP)
+L-007;UTI Pediátrica;Vermelho;3;Gabriel Martins (Iti);65.0;🟡 Atenção;Gestão Estadual (SP)
+L-575;Centro Obstétrico/Maternidade;Vermelho;3;Ana Silva (São);65.0;🟡 Atenção;Arealva
+L-373;Centro Obstétrico/Maternidade;Vermelho;3;Juliana Rocha (Urâ);65.0;🟡 Atenção;Itaberá
+L-372;Enfermaria;Vermelho;3;Camila Santos (Mon);65.0;🟡 Atenção;Itaberá
+L-370;Pronto Socorro;Vermelho;3;Mariana Lima (Ita);65.0;🟡 Atenção;Itaporanga
+L-565;Centro Obstétrico/Maternidade;Vermelho;3;Juliana Rocha (Ipu);65.0;🟡 Atenção;Cravinhos
+L-033;Centro Obstétrico/Maternidade;Vermelho;3;Rafael Ribeiro (Itu);65.0;🟡 Atenção;Santo André
+L-027;Pronto Socorro;Vermelho;3;Ana Silva (Bir);64.0;🟡 Atenção;São José dos Campos
+L-002;Centro Obstétrico/Maternidade;Vermelho;3;Gabriel Martins (Cer);64.0;🟡 Atenção;Gestão Estadual (SP)
+L-589;Centro Obstétrico/Maternidade;Amarelo;2;Carlos Souza (Ame);64.0;🟡 Atenção;Silveiras
+L-595;Centro Obstétrico/Maternidade;Amarelo;2;Rafael Ribeiro (Ces);64.0;🟡 Atenção;Colômbia
+L-001;Centro Obstétrico/Maternidade;Amarelo;2;Juliana Rocha (São);64.0;🟡 Atenção;Gestão Estadual (SP)
+L-349;Enfermaria;Amarelo;2;Gabriel Martins (Ind);64.0;🟡 Atenção;Serra Negra
+L-049;Enfermaria;Amarelo;2;Juliana Rocha (Cer);64.0;🟡 Atenção;Piracicaba
+L-041;Enfermaria;Amarelo;2;Fernando Costa (Mir);64.0;🟡 Atenção;Jundiaí
+L-038;Centro Obstétrico/Maternidade;Amarelo;2;Rafael Ribeiro (São);64.0;🟡 Atenção;Ribeirão Preto
+L-037;UTI Adulto;Amarelo;2;Fernando Costa (Car);64.0;🟡 Atenção;Santos
+L-067;UTI Adulto;Amarelo;2;Mariana Lima (Mir);64.0;🟡 Atenção;Indaiatuba
+L-066;Pronto Socorro;Amarelo;2;Mariana Lima (Dua);64.0;🟡 Atenção;Indaiatuba
+L-064;Pronto Socorro;Amarelo;2;Beatriz Alves (Ser);64.0;🟡 Atenção;Guarujá
+L-576;UTI Pediátrica;Amarelo;2;Camila Santos (Gua);64.0;🟡 Atenção;Aparecida d'Oeste
+L-572;UTI Adulto;Amarelo;2;Carlos Souza (São);64.0;🟡 Atenção;Jaborandi
+L-570;Pronto Socorro;Amarelo;2;Beatriz Alves (San);64.0;🟡 Atenção;Guapiara
+L-569;Centro Obstétrico/Maternidade;Amarelo;2;Carlos Souza (Rib);62.0;🟡 Atenção;Paulo de Faria
+L-346;UTI Pediátrica;Amarelo;2;Rafael Ribeiro (Bur);62.0;🟡 Atenção;Tupi Paulista
+L-345;Pronto Socorro;Amarelo;2;Juliana Rocha (Mig);62.0;🟡 Atenção;Guariba
+L-387;Enfermaria;Amarelo;2;Lucas Mendes (Ped);62.0;🟡 Atenção;Tambaú
+L-386;Pronto Socorro;Amarelo;2;Rafael Ribeiro (Gar);62.0;🟡 Atenção;Tambaú
+L-522;Pronto Socorro;Amarelo;2;Camila Santos (Apa);62.0;🟡 Atenção;Nova Europa
+L-521;UTI Adulto;Amarelo;2;Gabriel Martins (Nov);62.0;🟡 Atenção;Ribeirão Bonito
+L-520;UTI Pediátrica;Amarelo;2;Mariana Lima (Dia);62.0;🟡 Atenção;Ribeirão Bonito
+L-519;UTI Pediátrica;Amarelo;2;Camila Santos (San);62.0;🟡 Atenção;Itapuí
+L-516;Centro Obstétrico/Maternidade;Amarelo;2;Ana Silva (Ipa);62.0;🟡 Atenção;São Luiz do Paraitinga
+L-147;UTI Pediátrica;Amarelo;2;Camila Santos (Itá);62.0;🟡 Atenção;Ubatuba
+L-143;UTI Pediátrica;Amarelo;2;Lucas Mendes (Bro);62.0;🟡 Atenção;Jaguariúna
+L-140;UTI Pediátrica;Amarelo;2;Juliana Rocha (San);62.0;🟡 Atenção;Itapira
+L-139;UTI Pediátrica;Amarelo;2;Carlos Souza (Mar);62.0;🟡 Atenção;Leme
+L-137;Centro Obstétrico/Maternidade;Amarelo;2;Ana Silva (Caj);61.0;🟡 Atenção;São Roque
+L-135;Enfermaria;Amarelo;2;Mariana Lima (Pen);61.0;🟡 Atenção;Sertãozinho
+L-132;Enfermaria;Amarelo;2;Fernando Costa (Suz);61.0;🟡 Atenção;Assis
+L-162;Centro Obstétrico/Maternidade;Amarelo;2;Lucas Mendes (São);61.0;🟡 Atenção;Dracena
+L-128;Pronto Socorro;Amarelo;2;Beatriz Alves (Ges);61.0;🟡 Atenção;Guaratinguetá
+L-125;Pronto Socorro;Amarelo;2;Gabriel Martins (Emb);61.0;🟡 Atenção;Hortolândia
+L-124;Centro Obstétrico/Maternidade;Amarelo;2;Carlos Souza (Pir);61.0;🟡 Atenção;Hortolândia
+L-495;UTI Pediátrica;Amarelo;2;Gabriel Martins (Lou);61.0;🟡 Atenção;Santa Adélia
+L-491;UTI Pediátrica;Amarelo;2;Rafael Ribeiro (Luc);60.0;🟡 Atenção;Mongaguá
+L-488;UTI Adulto;Amarelo;2;Carlos Souza (Gua);60.0;🟡 Atenção;Urupês
+L-487;Enfermaria;Amarelo;2;Gabriel Martins (Mar);60.0;🟡 Atenção;Viradouro
+L-161;Centro Obstétrico/Maternidade;Amarelo;2;Beatriz Alves (Mon);60.0;🟡 Atenção;São Sebastião
+L-155;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Mog);60.0;🟡 Atenção;Lins
+L-154;Enfermaria;Amarelo;2;Ana Silva (Jac);60.0;🟡 Atenção;Lins
+L-150;UTI Adulto;Amarelo;2;Mariana Lima (Mau);60.0;🟡 Atenção;Vinhedo
+L-515;UTI Pediátrica;Amarelo;2;Fernando Costa (Ita);60.0;🟡 Atenção;Urânia
+L-512;UTI Pediátrica;Amarelo;2;Beatriz Alves (Sud);60.0;🟡 Atenção;Joanópolis
+L-511;UTI Adulto;Amarelo;2;Rafael Ribeiro (Cas);59.0;🟡 Atenção;Charqueada
+L-507;UTI Pediátrica;Amarelo;2;Lucas Mendes (San);59.0;🟡 Atenção;São Bento do Sapucaí
+L-506;Pronto Socorro;Amarelo;2;Juliana Rocha (Pre);59.0;🟡 Atenção;São Bento do Sapucaí
+L-505;UTI Adulto;Amarelo;2;Mariana Lima (Reg);59.0;🟡 Atenção;Embu-Guaçu
+L-503;Pronto Socorro;Amarelo;2;Juliana Rocha (Por);59.0;🟡 Atenção;Cajobi
+L-502;UTI Pediátrica;Amarelo;2;Beatriz Alves (Jun);57.0;🟡 Atenção;Cajobi
+L-206;Enfermaria;Amarelo;2;Ana Silva (Bar);57.0;🟡 Atenção;Taquaritinga
+L-178;Enfermaria;Amarelo;2;Gabriel Martins (Our);57.0;🟡 Atenção;Mogi Mirim
+L-173;UTI Adulto;Amarelo;2;Rafael Ribeiro (Con);57.0;🟡 Atenção;Mococa
+L-123;Enfermaria;Amarelo;2;Fernando Costa (Mon);57.0;🟡 Atenção;Cruzeiro
+L-122;Centro Obstétrico/Maternidade;Amarelo;2;Rafael Ribeiro (Dua);57.0;🟡 Atenção;Cruzeiro
+L-121;Enfermaria;Amarelo;2;Rafael Ribeiro (Ibi);57.0;🟡 Atenção;Santa Bárbara d'Oeste
+L-118;Centro Obstétrico/Maternidade;Amarelo;2;Juliana Rocha (Pot);56.0;🟡 Atenção;Bragança Paulista
+L-531;UTI Pediátrica;Amarelo;2;Ana Silva (Con);56.0;🟡 Atenção;Populina
+L-530;UTI Pediátrica;Amarelo;2;Ana Silva (Tag);56.0;🟡 Atenção;Populina
+L-526;Pronto Socorro;Amarelo;2;Lucas Mendes (Emb);56.0;🟡 Atenção;Iacanga
+L-523;UTI Pediátrica;Amarelo;2;Beatriz Alves (Lim);56.0;🟡 Atenção;Nova Europa
+L-115;Enfermaria;Amarelo;2;Ana Silva (Ame);56.0;🟡 Atenção;Suzano
+L-168;UTI Pediátrica;Amarelo;2;Mariana Lima (Col);56.0;🟡 Atenção;Batatais
+L-166;Enfermaria;Amarelo;2;Lucas Mendes (Par);56.0;🟡 Atenção;São José do Rio Pardo
+L-499;Pronto Socorro;Amarelo;2;Juliana Rocha (Mac);56.0;🟡 Atenção;Queluz
+L-497;Enfermaria;Amarelo;2;Camila Santos (Ces);56.0;🟡 Atenção;Itatinga
+L-478;UTI Adulto;Amarelo;2;Juliana Rocha (Mai);56.0;🟡 Atenção;Rio das Pedras
+L-477;UTI Pediátrica;Amarelo;2;Mariana Lima (Api);56.0;🟡 Atenção;Salesópolis
+L-475;Enfermaria;Amarelo;2;Juliana Rocha (Lar);56.0;🟡 Atenção;Ipaussu
+L-473;Centro Obstétrico/Maternidade;Amarelo;2;Fernando Costa (Por);56.0;🟡 Atenção;Ibirá
+L-472;Enfermaria;Amarelo;2;Carlos Souza (Are);56.0;🟡 Atenção;Ibirá
+L-471;Enfermaria;Amarelo;2;Camila Santos (Ter);56.0;🟡 Atenção;Pompéia
+L-486;UTI Adulto;Amarelo;2;Juliana Rocha (Ber);56.0;🟡 Atenção;Viradouro
+L-484;Pronto Socorro;Amarelo;2;Carlos Souza (Per);56.0;🟡 Atenção;Guaraçaí
+L-195;Pronto Socorro;Amarelo;2;Gabriel Martins (San);56.0;🟡 Atenção;Penápolis
+L-191;Centro Obstétrico/Maternidade;Amarelo;2;Camila Santos (Ara);55.0;🟡 Atenção;Andradina
+L-187;UTI Pediátrica;Amarelo;2;Lucas Mendes (Car);55.0;🟡 Atenção;Birigui
+L-186;Centro Obstétrico/Maternidade;Amarelo;2;Beatriz Alves (Gua);55.0;🟡 Atenção;Birigui
+L-185;UTI Adulto;Amarelo;2;Rafael Ribeiro (Ped);55.0;🟡 Atenção;Paraguaçu Paulista
+L-182;Pronto Socorro;Amarelo;2;Camila Santos (Cun);55.0;🟡 Atenção;Salto
+L-180;Pronto Socorro;Amarelo;2;Beatriz Alves (Pot);55.0;🟡 Atenção;Santa Cruz do Rio Pardo
+L-207;Pronto Socorro;Amarelo;2;Fernando Costa (Ang);55.0;🟡 Atenção;Taquaritinga
+L-461;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Cas);55.0;🟡 Atenção;São Sebastião da Grama
+L-200;Centro Obstétrico/Maternidade;Amarelo;2;Mariana Lima (Sal);55.0;🟡 Atenção;Ituverava
+L-197;Centro Obstétrico/Maternidade;Amarelo;2;Juliana Rocha (Gua);55.0;🟡 Atenção;Olímpia
+L-114;UTI Pediátrica;Amarelo;2;Ana Silva (Gen);55.0;🟡 Atenção;Suzano
+L-112;UTI Adulto;Amarelo;2;Carlos Souza (Aru);55.0;🟡 Atenção;Praia Grande
+L-107;Enfermaria;Amarelo;2;Beatriz Alves (Sal);55.0;🟡 Atenção;Lorena
+L-105;Enfermaria;Amarelo;2;Lucas Mendes (Ita);55.0;🟡 Atenção;São João da Boa Vista
+L-104;Pronto Socorro;Amarelo;2;Ana Silva (Lor);55.0;🟡 Atenção;São João da Boa Vista
+L-103;UTI Adulto;Amarelo;2;Rafael Ribeiro (Gua);54.0;🟡 Atenção;Itu
+L-101;Pronto Socorro;Amarelo;2;Juliana Rocha (San);54.0;🟡 Atenção;Americana
+L-100;UTI Pediátrica;Amarelo;2;Lucas Mendes (Tab);54.0;🟡 Atenção;Americana
+L-096;Pronto Socorro;Amarelo;2;Fernando Costa (Mar);54.0;🟡 Atenção;Taubaté
+L-088;Centro Obstétrico/Maternidade;Amarelo;2;Juliana Rocha (San);54.0;🟡 Atenção;Itapetininga
+L-482;UTI Pediátrica;Amarelo;2;Lucas Mendes (Tap);54.0;🟡 Atenção;Cesário Lange
+L-481;Enfermaria;Amarelo;2;Gabriel Martins (Pau);54.0;🟡 Atenção;Salto Grande
+L-479;Enfermaria;Amarelo;2;Rafael Ribeiro (Ibi);54.0;🟡 Atenção;Rio das Pedras
+L-242;Centro Obstétrico/Maternidade;Amarelo;2;Camila Santos (Cam);54.0;🟡 Atenção;Capão Bonito
+L-238;UTI Adulto;Amarelo;2;Mariana Lima (Pil);54.0;🟡 Atenção;Itupeva
+L-234;UTI Pediátrica;Amarelo;2;Ana Silva (Pie);54.0;🟡 Atenção;Pirassununga
+L-233;Centro Obstétrico/Maternidade;Amarelo;2;Ana Silva (Naz);54.0;🟡 Atenção;Presidente Epitácio
+L-232;UTI Pediátrica;Amarelo;2;Camila Santos (Pre);54.0;🟡 Atenção;Presidente Epitácio
+L-470;Centro Obstétrico/Maternidade;Amarelo;2;Carlos Souza (Gál);54.0;🟡 Atenção;Pompéia
+L-469;UTI Adulto;Amarelo;2;Camila Santos (Cam);52.0;🟡 Atenção;Águas de Lindóia
+L-468;Pronto Socorro;Amarelo;2;Beatriz Alves (Ges);52.0;🟡 Atenção;Águas de Lindóia
+L-226;Centro Obstétrico/Maternidade;Amarelo;2;Lucas Mendes (Mog);52.0;🟡 Atenção;Cajuru
+L-224;Pronto Socorro;Amarelo;2;Beatriz Alves (Est);52.0;🟡 Atenção;Capivari
+L-219;Pronto Socorro;Amarelo;2;Rafael Ribeiro (Taq);52.0;🟡 Atenção;São Pedro
+L-216;Centro Obstétrico/Maternidade;Amarelo;2;Mariana Lima (Ass);52.0;🟡 Atenção;Louveira
+L-215;Centro Obstétrico/Maternidade;Amarelo;2;Juliana Rocha (Cac);52.0;🟡 Atenção;Morro Agudo
+L-212;Centro Obstétrico/Maternidade;Amarelo;2;Camila Santos (Caj);52.0;🟡 Atenção;Arujá
+L-467;Pronto Socorro;Amarelo;2;Gabriel Martins (Urâ);51.0;🟡 Atenção;Piracaia
+L-465;UTI Adulto;Amarelo;2;Gabriel Martins (Itu);51.0;🟡 Atenção;Cabreúva
+L-457;Enfermaria;Amarelo;2;Juliana Rocha (Bro);51.0;🟡 Atenção;Ribeirão Branco
+L-085;UTI Pediátrica;Amarelo;2;Fernando Costa (Mar);51.0;🟡 Atenção;Paulínia
+L-084;UTI Pediátrica;Amarelo;2;Mariana Lima (Jag);51.0;🟡 Atenção;Paulínia
+L-547;Enfermaria;Amarelo;2;Beatriz Alves (Moc);51.0;🟡 Atenção;Piratininga
+L-546;UTI Adulto;Amarelo;2;Lucas Mendes (Caj);51.0;🟡 Atenção;Piratininga
+L-543;UTI Pediátrica;Amarelo;2;Ana Silva (Ava);51.0;🟡 Atenção;Bom Jesus dos Perdões
+L-539;UTI Pediátrica;Amarelo;2;Fernando Costa (Pom);51.0;🟡 Atenção;Sud Mennucci
+L-536;Pronto Socorro;Amarelo;2;Camila Santos (Ipa);51.0;🟡 Atenção;Conchas
+L-548;UTI Adulto;Amarelo;2;Ana Silva (Vár);51.0;🟡 Atenção;Gália
+L-083;UTI Adulto;Amarelo;2;Ana Silva (Boa);51.0;🟡 Atenção;São Vicente
+L-082;Centro Obstétrico/Maternidade;Amarelo;2;Fernando Costa (Rio);51.0;🟡 Atenção;São Vicente
+L-081;UTI Pediátrica;Amarelo;2;Carlos Souza (Pon);51.0;🟡 Atenção;Cubatão
+L-455;Enfermaria;Amarelo;2;Rafael Ribeiro (Iga);51.0;🟡 Atenção;Estrela d'Oeste
+L-454;Pronto Socorro;Amarelo;2;Mariana Lima (Des);51.0;🟡 Atenção;Estrela d'Oeste
+L-452;Pronto Socorro;Amarelo;2;Beatriz Alves (Col);51.0;🟡 Atenção;Iepê
+L-243;Pronto Socorro;Amarelo;2;Camila Santos (São);51.0;🟡 Atenção;Capão Bonito
+L-439;Pronto Socorro;Amarelo;2;Lucas Mendes (São);51.0;🟡 Atenção;Lucélia
+L-438;Pronto Socorro;Amarelo;2;Juliana Rocha (San);50.0;🟡 Atenção;Lucélia
+L-289;Enfermaria;Amarelo;2;Mariana Lima (São);50.0;🟡 Atenção;Guararema
+L-229;Centro Obstétrico/Maternidade;Amarelo;2;Mariana Lima (Orl);50.0;🟡 Atenção;Piedade
+L-228;Enfermaria;Amarelo;2;Lucas Mendes (Bar);50.0;🟡 Atenção;Piedade
+L-257;UTI Pediátrica;Amarelo;2;Camila Santos (Aur);50.0;🟡 Atenção;Pederneiras
+L-256;UTI Adulto;Amarelo;2;Juliana Rocha (San);50.0;🟡 Atenção;Pederneiras
+L-251;UTI Pediátrica;Amarelo;2;Fernando Costa (Boc);50.0;🟡 Atenção;Cosmópolis
+L-250;UTI Pediátrica;Amarelo;2;Rafael Ribeiro (Rib);50.0;🟡 Atenção;Cosmópolis
+L-248;Enfermaria;Amarelo;2;Juliana Rocha (Our);50.0;🟡 Atenção;Presidente Venceslau
+L-246;Enfermaria;Amarelo;2;Carlos Souza (Uba);50.0;🟡 Atenção;Santa Fé do Sul
+L-245;Pronto Socorro;Amarelo;2;Juliana Rocha (Mor);50.0;🟡 Atenção;Santa Isabel
+L-244;UTI Adulto;Amarelo;2;Beatriz Alves (Pen);50.0;🟡 Atenção;Santa Isabel
+L-275;Enfermaria;Amarelo;2;Mariana Lima (Álv);50.0;🟡 Atenção;Ilhabela
+L-273;Pronto Socorro;Amarelo;2;Beatriz Alves (Pir);50.0;🟡 Atenção;Embu das Artes
+L-458;Enfermaria;Amarelo;2;Juliana Rocha (Jaú);50.0;🟡 Atenção;Cerquilho
+L-056;Pronto Socorro;Amarelo;2;Camila Santos (Rin);50.0;🟡 Atenção;Ourinhos
+L-279;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Vargem Grande do Sul
+L-277;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Barra Bonita
+L-434;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Potirendaba
+L-432;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pereira Barreto
+L-431;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Nazaré Paulista
+L-428;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Regente Feijó
+L-427;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ouroeste
+L-426;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ouroeste
+L-425;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Getulina
+L-307;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Igarapava
+L-271;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Socorro
+L-262;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Campos do Jordão
+L-451;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Colina
+L-450;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Colina
+L-449;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Macatuba
+L-284;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Orlândia
+L-283;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Taquarituba
+L-080;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cubatão
+L-078;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Barretos
+L-077;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Marília
+L-076;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Marília
+L-075;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Diadema
+L-074;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Diadema
+L-072;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jaú
+L-070;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jacareí
+L-069;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mogi das Cruzes
+L-068;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mogi das Cruzes
+L-099;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Caraguatatuba
+L-062;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São José do Rio Preto
+L-059;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Carlos
+L-058;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Carlos
+L-391;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Manuel
+L-305;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Piraju
+L-304;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Piraju
+L-303;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cândido Mota
+L-301;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bertioga
+L-299;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Altinópolis
+L-298;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Altinópolis
+L-296;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Auriflama
+L-292;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Martinópolis
+L-419;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Castilho
+L-417;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Agudos
+L-414;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Taguaí
+L-413;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cafelândia
+L-412;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cafelândia
+L-411;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Paranapanema
+L-288;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guararema
+L-321;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mirassol
+L-316;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cunha
+L-055;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Araraquara
+L-053;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Limeira
+L-052;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Limeira
+L-561;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Torrinha
+L-549;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gália
+L-023;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-022;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-021;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-314;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Angatuba
+L-312;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Laranjal Paulista
+L-308;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Nova Odessa
+L-399;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itajobi
+L-395;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Borborema
+L-394;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Borborema
+L-384;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ibiúna
+L-382;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Várzea Paulista
+L-381;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Fartura
+L-380;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Fartura
+L-379;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tietê
+L-377;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Brotas
+L-389;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Rosa de Viterbo
+L-339;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Casa Branca
+L-338;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Casa Branca
+L-336;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guará
+L-335;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Conchal
+L-333;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bariri
+L-330;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Miguelópolis
+L-326;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Junqueirópolis
+L-324;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pontal
+L-323;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guararapes
+L-579;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Boa Esperança do Sul
+L-590;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Arandu
+L-574;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Arealva
+L-586;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bauru
+L-367;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Teodoro Sampaio
+L-365;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Rita do Passa Quatro
+L-364;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Rita do Passa Quatro
+L-363;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Monte Azul Paulista
+L-362;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Monte Azul Paulista
+L-361;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itapecerica da Serra
+L-359;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cerqueira César
+L-357;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Duartina
+L-003;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-578;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Boa Esperança do Sul
+L-353;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Cruz das Palmeiras
+L-351;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pirajuí
+L-019;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-017;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-016;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-015;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-011;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-005;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-375;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pilar do Sul
+L-566;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Macaubal
+L-564;UTI Adulto;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cravinhos
+L-035;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guarulhos
+L-034;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guarulhos
+L-031;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Campinas
+L-029;Centro Obstétrico/Maternidade;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Bernardo do Campo
+L-028;UTI Pediátrica;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Bernardo do Campo
+L-025;Enfermaria;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-024;Pronto Socorro;Amarelo;2;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-006;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-008;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-010;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-013;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Gestão Estadual (SP)
+L-018;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-580;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santo Antônio da Alegria
+L-581;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santo Antônio da Alegria
+L-582;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Terra Roxa
+L-584;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Neves Paulista
+L-585;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Neves Paulista
+L-591;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Arandu
+L-593;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Alto Alegre
+L-356;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Duartina
+L-358;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cerqueira César
+L-360;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itapecerica da Serra
+L-366;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Teodoro Sampaio
+L-368;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bastos
+L-369;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bastos
+L-371;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itaporanga
+L-374;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pilar do Sul
+L-376;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Brotas
+L-378;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tietê
+L-385;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ibiúna
+L-340;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Monte Mor
+L-341;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Monte Mor
+L-342;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Dois Córregos
+L-344;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guariba
+L-347;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tupi Paulista
+L-348;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Serra Negra
+L-350;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pirajuí
+L-352;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Cruz das Palmeiras
+L-354;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tabatinga
+L-329;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pitangueiras
+L-331;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Miguelópolis
+L-337;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guará
+L-396;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Palmeira d'Oeste
+L-397;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Palmeira d'Oeste
+L-398;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itajobi
+L-401;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Presidente Bernardes
+L-402;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Caieiras
+L-309;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Nova Odessa
+L-310;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Salto de Pirapora
+L-311;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Salto de Pirapora
+L-315;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Angatuba
+L-317;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cunha
+L-318;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santo Anastácio
+L-319;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santo Anastácio
+L-320;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mirassol
+L-322;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guararapes
+L-405;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Buritama
+L-406;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bernardino de Campos
+L-407;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bernardino de Campos
+L-408;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pirangi
+L-409;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pirangi
+L-410;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Paranapanema
+L-415;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Taguaí
+L-418;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Castilho
+L-294;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Palmital
+L-295;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Palmital
+L-297;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Auriflama
+L-300;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bertioga
+L-302;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cândido Mota
+L-306;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Igarapava
+L-420;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Valparaíso
+L-422;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ipuã
+L-423;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ipuã
+L-429;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Regente Feijó
+L-430;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Nazaré Paulista
+L-433;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pereira Barreto
+L-435;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Potirendaba
+L-276;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Barra Bonita
+L-278;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Vargem Grande do Sul
+L-280;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bebedouro
+L-281;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bebedouro
+L-282;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Taquarituba
+L-286;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Miguel Arcanjo
+L-287;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Miguel Arcanjo
+L-290;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Carapicuíba
+L-436;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tabapuã
+L-437;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tabapuã
+L-440;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Álvares Machado
+L-441;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Álvares Machado
+L-442;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;General Salgado
+L-444;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Maracaí
+L-445;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Maracaí
+L-261;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Garça
+L-263;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Campos do Jordão
+L-265;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ribeirão Pires
+L-266;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Apiaí
+L-267;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Apiaí
+L-268;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Descalvado
+L-269;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Descalvado
+L-272;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Embu das Artes
+L-247;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Fé do Sul
+L-252;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guaíra
+L-253;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guaíra
+L-254;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Porto Ferreira
+L-255;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Porto Ferreira
+L-230;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Espírito Santo do Pinhal
+L-235;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pirassununga
+L-236;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Boituva
+L-237;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Boituva
+L-239;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itupeva
+L-453;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Iepê
+L-456;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ribeirão Branco
+L-462;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ibaté
+L-463;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ibaté
+L-464;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cabreúva
+L-213;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Arujá
+L-214;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Morro Agudo
+L-217;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Louveira
+L-220;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jaboticabal
+L-221;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jaboticabal
+L-223;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Taboão da Serra
+L-225;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Capivari
+L-474;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ipaussu
+L-483;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cesário Lange
+L-198;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Votorantim
+L-199;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Votorantim
+L-203;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Lençóis Paulista
+L-204;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Porto Feliz
+L-205;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Porto Feliz
+L-208;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itápolis
+L-209;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itápolis
+L-211;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Novo Horizonte
+L-184;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Paraguaçu Paulista
+L-188;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itararé
+L-190;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Andradina
+L-192;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Caçapava
+L-194;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Penápolis
+L-485;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guaraçaí
+L-489;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Urupês
+L-490;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mongaguá
+L-492;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itaí
+L-493;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itaí
+L-494;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Adélia
+L-164;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mairiporã
+L-167;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São José do Rio Pardo
+L-171;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santana de Parnaíba
+L-174;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ibitinga
+L-175;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ibitinga
+L-176;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Amparo
+L-177;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Amparo
+L-179;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mogi Mirim
+L-500;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Indiaporã
+L-501;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Indiaporã
+L-504;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Embu-Guaçu
+L-508;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Américo Brasiliense
+L-509;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Américo Brasiliense
+L-510;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Charqueada
+L-513;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Joanópolis
+L-148;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Adamantina
+L-149;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Adamantina
+L-151;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Vinhedo
+L-152;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tatuí
+L-153;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Tatuí
+L-156;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Valinhos
+L-160;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Sebastião
+L-133;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Assis
+L-134;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Sertãozinho
+L-136;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Roque
+L-141;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itapira
+L-142;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jaguariúna
+L-144;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Atibaia
+L-145;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Atibaia
+L-146;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ubatuba
+L-517;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Luiz do Paraitinga
+L-525;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itirapina
+L-527;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Iacanga
+L-529;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Simão
+L-116;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Araras
+L-120;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santa Bárbara d'Oeste
+L-126;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Campo Limpo Paulista
+L-131;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itatiba
+L-108;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Francisco Morato
+L-109;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Francisco Morato
+L-110;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pindamonhangaba
+L-111;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Pindamonhangaba
+L-113;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Praia Grande
+L-534;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jarinu
+L-537;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Conchas
+L-538;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Sud Mennucci
+L-544;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Cachoeira Paulista
+L-086;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Avaré
+L-089;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itapetininga
+L-090;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Rio Claro
+L-093;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Itapeva
+L-094;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mogi Guaçu
+L-095;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mogi Guaçu
+L-097;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Taubaté
+L-098;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Caraguatatuba
+L-073;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jaú
+L-079;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Barretos
+L-551;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Aguaí
+L-554;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Sales Oliveira
+L-555;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Sales Oliveira
+L-557;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Riolândia
+L-558;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bocaina
+L-559;UTI Adulto;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Bocaina
+L-560;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Torrinha
+L-057;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Ourinhos
+L-060;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mauá
+L-061;Centro Obstétrico/Maternidade;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Mauá
+L-063;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São José do Rio Preto
+L-065;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guarujá
+L-036;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santos
+L-040;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jundiaí
+L-043;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Barueri
+L-046;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Osasco
+L-048;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Piracicaba
+L-051;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Caetano do Sul
+L-020;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São Paulo
+L-026;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;São José dos Campos
+L-030;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Campinas
+L-032;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Santo André
+L-567;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Macaubal
+L-568;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Paulo de Faria
+L-571;UTI Pediátrica;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Guapiara
+L-573;Enfermaria;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Jaborandi
+L-577;Pronto Socorro;Verde;1;Gabriel Martins (Col) (⚠️ Dupla Cobertura);92.0;🟢 Apto;Aparecida d'Oeste
