@@ -38,7 +38,7 @@ A solução está estruturada em um pipeline ponta a ponta robusto e escalável 
 ├── 4_leitos_cnes_municipios.csv          # Capacidade instalada de leitos (modelo CNES)
 ├── 5_prontidao_equipe.csv                # Matriz de prontidão, jornadas e índice de fadiga
 ├── 6_pareamento_escala_leitos.csv        # Escala operacional e pareamento entre leitos e equipes
-├── app.py                      # Script principal da aplicação web em Streamlit
+├── app.py                                # Script principal da aplicação web em Streamlit
 ├── requirements.txt                      # Dependências e bibliotecas do projeto
 └── README.md                             # Documentação técnica oficial do repositório
 ```
