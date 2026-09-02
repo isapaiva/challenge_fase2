@@ -69,6 +69,6 @@ wallet_location = "caminho_para_sua_wallet"
 Por fim, inicialize a aplicação com o Streamlit:
 
 ```bash
-streamlit run ec_fiap_final.py
+streamlit run app.py
 ```
 
