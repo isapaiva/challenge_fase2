@@ -40,7 +40,8 @@ A solução está estruturada em um pipeline ponta a ponta robusto e escalável 
 ├── 6_pareamento_escala_leitos.csv        # Escala operacional e pareamento entre leitos e equipes
 ├── app.py                                # Script principal da aplicação web em Streamlit
 ├── requirements.txt                      # Dependências e bibliotecas do projeto
-└── README.md                             # Documentação técnica oficial do repositório
+├── README.md                             # Documentação técnica oficial do repositório
+└── sprint_2.ipynb                        # Notebook Google Colab com a extração e desenvolvimento dos dados
 ```
 
 ---
